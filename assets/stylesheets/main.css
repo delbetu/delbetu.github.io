@@ -1,0 +1,9 @@
+ul.social-icons {
+  list-style-type: none;
+}
+
+ul.social-icons li {
+  margin: 1em;
+  display: inline;
+  float: left;
+}
