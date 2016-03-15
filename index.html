@@ -51,25 +51,26 @@
   <form action="//formspree.io/delbetu@gmail.com" method="POST" id="contact-form">
     <div class="row">
       <label for="email">Email</label>
-      <input type="email" name="from" id="email">
+      <input type="email" name="from">
     </div>
 
     <div class="row">
       <label for="name">Name</label>
-      <input type="text" name="name" id="name">
+      <input type="text" name="name">
     </div>
 
     <div class="row">
       <label for="subject">Subject</label>
-      <input type="text" name="message-subject" id="subject">
+      <input type="text" name="message-subject">
     </div>
 
     <label for="body">Message</label>
-    <textarea name="message-body" id="body" rows="8" cols="40"></textarea>
+    <textarea name="message-body" rows="8" cols="40"></textarea>
 
     <input type="submit" class="submit" value="Send"></input>
-    <input type="hidden" name="_next" value="//localhost:4000/" />
+    <input type="hidden" name="_next" value="//localhost:4000/"></input>
   </form>
+
   <script type="text/javascript" charset="utf-8">
     $(document).ready(function() {
       $("#presentation-card .hire-me").overlay({
