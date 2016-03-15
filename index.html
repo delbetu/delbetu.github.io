@@ -48,25 +48,33 @@
     </ul>
   </div>
 
-  <div id="contact-form" class="hide">
+  <form action="//formspree.io/delbetu@gmail.com" method="POST" id="contact-form">
     <div class="row">
       <label for="email">Email</label>
-      <input type="text" name="message-email" id="email" value="">
+      <input type="email" name="from" id="email">
+    </div>
+
+    <div class="row">
+      <label for="name">Name</label>
+      <input type="text" name="name" id="name">
     </div>
 
     <div class="row">
       <label for="subject">Subject</label>
-      <input type="text" name="message-subject" id="subject" value="">
+      <input type="text" name="message-subject" id="subject">
     </div>
 
     <label for="body">Message</label>
     <textarea name="message-body" id="body" rows="8" cols="40"></textarea>
 
-    <a href="#" class="submit">Send</a>
-  </div>
+    <input type="submit" class="submit" value="Send"></input>
+    <input type="hidden" name="_next" value="//localhost:4000/" />
+  </form>
   <script type="text/javascript" charset="utf-8">
     $(document).ready(function() {
-      $("#presentation-card .hire-me").overlay({ mask: "#657b83" });
+      $("#presentation-card .hire-me").overlay({
+        mask: "#657b83"
+      });
     });
   </script>
 </body>
