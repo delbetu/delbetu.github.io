@@ -42,8 +42,8 @@
 
 #presentation-card .hire-me {
   position: absolute;
-  top: 28px;
-  right: 1px;
+  top: 36px;
+  right: -5px;
   color: #d33682;
   font-size: 1.3em;
   font-weight: bold;
