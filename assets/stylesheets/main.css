@@ -1,9 +1,56 @@
-ul.social-icons {
+#presentation-card {
+  background-color: #073642;
+
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+  width: 400px;
+  height: 400px;
+
+  padding: 2em;
+
+  box-shadow: 3px 3px 6px 3px rgba(0,0,0,0.8);
+  border-radius: 9px;
+}
+
+#presentation-card h1 {
+  padding: 1em;
+  text-align: center;
+  color: #b58900;
+  font-family: 'Oswald';
+  font-size: 2em;
+}
+
+#presentation-card p {
+  color: #fdf6e3;
+  font-family: 'Ubuntu';
+}
+
+#presentation-card ul.social-icons {
   list-style-type: none;
 }
 
-ul.social-icons li {
-  margin: 1em;
+#presentation-card ul.social-icons li {
+  padding: 2em 0px;
+  margin: 10px;
   display: inline;
   float: left;
+}
+
+#presentation-card .hire-me-link {
+  position: absolute;
+  top: 28px;
+  right: 1px;
+  color: red;
+  font-size: 1.3em;
+  font-weight: bold;
+  text-decoration: none;
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
 }
