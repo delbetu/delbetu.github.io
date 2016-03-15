@@ -7,12 +7,14 @@
   <link rel="stylesheet" href="/assets/stylesheets/main.css" type="text/css">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Ubuntu+Mono" type="text/css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald" type="text/css">
+  <script src="http://code.jquery.com/jquery-2.2.1.js"></script>
+  <script src="http://cdn.jquerytools.org/1.2.6/full/jquery.tools.min.js"></script>
 </head>
 
 <body>
   <div id="presentation-card">
     <h1>Marcos Bellucci</h1>
-    <a class="hire-me-link">Hire Me!</a>
+    <a href="#" class="hire-me" rel="#contact-form">Hire Me!</a>
 
     <p>
       I'm a software developer from Montevideo, Uruguay working on RoR since 2014.
@@ -53,7 +55,7 @@
     </div>
 
     <div class="row">
-      <label for="subject">Title</label>
+      <label for="subject">Subject</label>
       <input type="text" name="message-subject" id="subject" value="">
     </div>
 
@@ -62,6 +64,11 @@
 
     <a href="#" class="submit">Send</a>
   </div>
+  <script type="text/javascript" charset="utf-8">
+    $(document).ready(function() {
+      $("#presentation-card .hire-me").overlay({ mask: "#657b83" });
+    });
+  </script>
 </body>
 
 </html>
