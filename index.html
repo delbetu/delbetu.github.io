@@ -1,95 +1,70 @@
-<html>
+---
+layout: default
+---
 
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <title>M.Bellucci</title>
-  <link rel="stylesheet" href="/assets/stylesheets/main.css" type="text/css">
-  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Ubuntu+Mono" type="text/css">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald" type="text/css">
-  <script src="http://code.jquery.com/jquery-2.2.1.js"></script>
-  <script src="http://cdn.jquerytools.org/1.2.6/full/jquery.tools.min.js"></script>
+<div id="presentation-card">
+  <h1>Marcos Bellucci</h1>
+  <a href="#" class="hire-me" rel="#contact-form">Contact Me!</a>
 
-  <!-- Google Analytics -->
-  <script>
-    window.ga = window.ga || function() {
-      (ga.q = ga.q || []).push(arguments)
-    };
-    ga.l = +new Date;
-    ga('create', 'UA-59786404-1', 'auto');
-    ga('send', 'pageview');
-  </script>
-  <script async src='//www.google-analytics.com/analytics.js'></script>
-  <!-- End Google Analytics -->
+  <p>
+    I'm a software developer from Montevideo, Uruguay working on RoR since 2014.
+  </p>
+  <p>
+    I believe agile methodologies are the real formula to build reliable software.
+  </p>
+  <p>
+    I enjoy writing, sharing, discussing code and learning everyday.
+  </p>
 
-</head>
+  <ul class="social-icons">
+    <li>
+      <a href="https://twitter.com/delbetu"> <img src="assets/images/Twitter.png" alt="twitter"> </a>
+    </li>
+    <li>
+      <a href="https://github.com/delbetu"> <img src="assets/images/GitHub.png" alt="github"> </a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/in/marcos-bellucci-fratti-76b07918"> <img src="assets/images/LinkedIn.png" alt="linkedin"> </a>
+    </li>
+    <li>
+      <a href="https://github.com/delbetu/resume/blob/master/resume.pdf"> <img src="assets/images/DailyBooth.png" alt="resume"> </a>
+    </li>
+    <li>
+      <a href="https://github.com/delbetu/todo-app"> <img src="assets/images/Flickr.png" alt="sample code"> </a>
+    </li>
+    <li>
+      <a href="http://www.meetup.com/es-ES/members/87421642/"> <img src="assets/images/Dribbble.png" alt="meetup groups"> </a>
+    </li>
+  </ul>
+</div>
 
-<body>
-  <div id="presentation-card">
-    <h1>Marcos Bellucci</h1>
-    <a href="#" class="hire-me" rel="#contact-form">Contact Me!</a>
-
-    <p>
-      I'm a software developer from Montevideo, Uruguay working on RoR since 2014.
-    </p>
-    <p>
-      I believe agile methodologies are the real formula to build reliable software.
-    </p>
-    <p>
-      I enjoy writing, sharing, discussing code and learning everyday.
-    </p>
-
-    <ul class="social-icons">
-      <li>
-        <a href="https://twitter.com/delbetu"> <img src="assets/images/Twitter.png" alt="twitter"> </a>
-      </li>
-      <li>
-        <a href="https://github.com/delbetu"> <img src="assets/images/GitHub.png" alt="github"> </a>
-      </li>
-      <li>
-        <a href="https://www.linkedin.com/in/marcos-bellucci-fratti-76b07918"> <img src="assets/images/LinkedIn.png" alt="linkedin"> </a>
-      </li>
-      <li>
-        <a href="https://github.com/delbetu/resume/blob/master/resume.pdf"> <img src="assets/images/DailyBooth.png" alt="resume"> </a>
-      </li>
-      <li>
-        <a href="https://github.com/delbetu/todo-app"> <img src="assets/images/Flickr.png" alt="sample code"> </a>
-      </li>
-      <li>
-        <a href="http://www.meetup.com/es-ES/members/87421642/"> <img src="assets/images/Dribbble.png" alt="meetup groups"> </a>
-      </li>
-    </ul>
+<form action="//formspree.io/delbetu@gmail.com" method="POST" id="contact-form">
+  <div class="row">
+    <label for="email">Email</label>
+    <input type="email" name="from">
   </div>
 
-  <form action="//formspree.io/delbetu@gmail.com" method="POST" id="contact-form">
-    <div class="row">
-      <label for="email">Email</label>
-      <input type="email" name="from">
-    </div>
+  <div class="row">
+    <label for="name">Name</label>
+    <input type="text" name="name">
+  </div>
 
-    <div class="row">
-      <label for="name">Name</label>
-      <input type="text" name="name">
-    </div>
+  <div class="row">
+    <label for="subject">Subject</label>
+    <input type="text" name="message-subject">
+  </div>
 
-    <div class="row">
-      <label for="subject">Subject</label>
-      <input type="text" name="message-subject">
-    </div>
+  <label for="body">Message</label>
+  <textarea name="message-body" rows="8" cols="40"></textarea>
 
-    <label for="body">Message</label>
-    <textarea name="message-body" rows="8" cols="40"></textarea>
+  <input type="submit" class="submit" value="Send"></input>
+  <input type="hidden" name="_next" value="//localhost:4000/"></input>
+</form>
 
-    <input type="submit" class="submit" value="Send"></input>
-    <input type="hidden" name="_next" value="//localhost:4000/"></input>
-  </form>
-
-  <script type="text/javascript" charset="utf-8">
-    $(document).ready(function() {
-      $("#presentation-card .hire-me").overlay({
-        mask: "#657b83"
-      });
+<script type="text/javascript" charset="utf-8">
+  $(document).ready(function() {
+    $("#presentation-card .hire-me").overlay({
+      mask: "#657b83"
     });
-  </script>
-</body>
-
-</html>
+  });
+</script>
