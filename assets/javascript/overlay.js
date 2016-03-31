@@ -1,13 +1,15 @@
+function wasTriggeredOutside(event, selector) {
+  return !$(event.target).closest(selector).length
+}
+
 $(document).ready(function() {
   $(".hire-me").click(function() {
     $(".overlay").show(1000);
   });
 
-  $(".overlay").click(function() {
-    $(this).hide(1000);
-  });
-
-  $("#contact-form").click(function(event){
-    event.stopPropagation();
+  $(".overlay").on("click", function(event) {
+    if (wasTriggeredOutside(event, "#contact-form")) {
+      $(".overlay").hide(1000);
+    }
   });
 });
