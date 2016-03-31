@@ -36,28 +36,31 @@ layout: default
     </li>
   </ul>
 
-  <a href="#" class="hire-me" rel="#contact-form">Contact Me!</a>
+  <a href="#" class="hire-me">Contact Me!</a>
 </div>
 
-<form action="//formspree.io/delbetu@gmail.com" method="POST" id="contact-form">
-  <div class="row">
-    <label for="email">Email</label>
-    <input type="email" name="from">
-  </div>
+<div class="overlay">
+  <form action="//formspree.io/delbetu@gmail.com" method="POST" id="contact-form">
+    <div class="row">
+      <label for="email">Email</label>
+      <input type="email" name="from">
+    </div>
 
-  <div class="row">
-    <label for="name">Name</label>
-    <input type="text" name="name">
-  </div>
+    <div class="row">
+      <label for="name">Name</label>
+      <input type="text" name="name">
+    </div>
 
-  <div class="row">
-    <label for="subject">Subject</label>
-    <input type="text" name="message-subject">
-  </div>
+    <div class="row">
+      <label for="subject">Subject</label>
+      <input type="text" name="message-subject">
+    </div>
 
-  <label for="body">Message</label>
-  <textarea name="message-body" rows="8" cols="40"></textarea>
+    <label for="body">Message</label>
+    <textarea name="message-body" rows="8" cols="40"></textarea>
 
-  <input type="submit" class="submit" value="Send"></input>
-  <input type="hidden" name="_next" value="{{ page.url }}"></input>
-</form>
+    <input type="submit" class="submit" value="Send"></input>
+    <input type="hidden" name="_next" value="{{ page.url }}"></input>
+  </form>
+</div>
+
