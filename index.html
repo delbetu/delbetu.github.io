@@ -2,9 +2,8 @@
 layout: default
 ---
 
-<div class="row">
-  <div class="col-sm-3 col-lg-4"></div>
-  <div id="presentation-card" class="col-xs-12 col-sm-6 col-lg-4">
+<div class="container">
+  <div id="presentation-card" class="row full-screen">
     <div class="row">
       <h1>Marcos Bellucci</h1>
     </div>
@@ -20,57 +19,33 @@ layout: default
         I enjoy writing, sharing, discussing code and learning everyday.
       </p>
     </div>
-    <div class="row">
-      <ul class="social-icons">
-        <li>
-          <a target="_blank" href="https://twitter.com/delbetu"> <img src="assets/images/Twitter.png" alt="twitter"> </a>
-        </li>
-        <li>
-          <a target="_blank" href="https://github.com/delbetu"> <img src="assets/images/GitHub.png" alt="github"> </a>
-        </li>
-        <li>
-          <a target="_blank" href="https://www.linkedin.com/in/marcos-bellucci-fratti-76b07918"> <img src="assets/images/LinkedIn.png" alt="linkedin"> </a>
-        </li>
-        <li>
-          <a target="_blank" href="https://github.com/delbetu/resume/blob/master/resume.pdf"> <img src="assets/images/DailyBooth.png" alt="resume"> </a>
-        </li>
-        <li>
-          <a target="_blank" href="https://github.com/delbetu/todo-app"> <img src="assets/images/Flickr.png" alt="sample code"> </a>
-        </li>
-        <li>
-          <a target="_blank" href="http://www.meetup.com/es-ES/members/87421642/"> <img src="assets/images/Dribbble.png" alt="meetup groups"> </a>
-        </li>
-      </ul>
+
+    <div class="row text-center social-icons">
+      <a href="https://www.linkedin.com/in/marcos-bellucci-fratti-76b07918" target="_blank"><i class="fa fa-2x fa-linkedin"></i></a>
+      <a href="https://twitter.com/delbetu" target="_blank"><i class="fa fa-2x fa-twitter"></i></a>
+      <a href="https://github.com/delbetu/resume/blob/master/resume.pdf" target="_blank" > <i class="fa fa-2x fa-book"></i> </a>
+      <a href="https://github.com/delbetu/todo-app" target="_blank" > <i class="fa fa-2x fa-pencil"> </i> </a>
+      <a href="https://github.com/delbetu" target="_blank"><i class="fa fa-2x fa-github"></i></a>
+      <a href="http://www.meetup.com/es-ES/members/87421642/" target="_blank" > <i class="fa fa-2x fa-group"></i> </a>
     </div>
 
     <div class="row">
-      <a href="#" class="hire-me">Contact Me!</a>
+      <a href="#" class="hire-me" onclick="$('html, body').animate({scrollTop: $(window).height()},2000);">Contact Me!</a>
     </div>
   </div>
-  <div class="col-sm-3 col-lg-4"></div>
-</div>
 
-<div class="overlay">
-  <form action="//formspree.io/delbetu@gmail.com" method="POST" id="contact-form">
-    <div class="row">
-      <label for="email">Email</label>
-      <input type="email" name="from">
-    </div>
+  <div class="row full-screen contact-form-container">
+    <form action="//formspree.io/delbetu@gmail.com" method="POST" id="contact-form">
+      <h2>Get in touch</h2>
 
-    <div class="row">
-      <label for="name">Name</label>
-      <input type="text" name="name">
-    </div>
+      <input class="form-group form-control" type="email" name="from" placeholder="Email address" required>
 
-    <div class="row">
-      <label for="subject">Subject</label>
-      <input type="text" name="message-subject">
-    </div>
+      <input class="form-group form-control" type="text" name="name" placeholder="Name">
 
-    <label for="body">Message</label>
-    <textarea name="message-body" rows="8" cols="40"></textarea>
+      <textarea class="form-group form-control" name="message-body" rows="8" cols="40" placeholder="Write your message here..."></textarea>
 
-    <input type="submit" class="submit" value="Send"></input>
-    <input type="hidden" name="_next" value="{{ page.url }}"></input>
-  </form>
+      <button type="submit" class="btn btn-lg btn-primary">Send</button>
+      <input type="hidden" name="_next" value="{{ page.url }}"></input>
+    </form>
+  </div>
 </div>

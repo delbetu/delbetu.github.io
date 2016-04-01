@@ -1,25 +1,25 @@
+.full-screen
+  height: 100vh
+
 #presentation-card
   background-color: $my_base02
   padding: 2em
-  box-shadow: 3px 3px 6px 3px rgba(0, 0, 0, 0.8)
-  border-radius: 9px
   text-align: center
-  margin-top: 5%
+  .row
+    margin-top: 2em
   h1
     padding: 1em
-    padding-top: 0.5em
     color: $my_yellow
     font-family: 'Oswald'
     font-size: 2em
   p
     color: $my_base3
     font-family: 'Ubuntu'
-  ul.social-icons
-    list-style-type: none
-    li
-      padding: 2em 0px
-      margin: 10px
-      display: inline
+  .social-icons
+    a:link, a:visited, a:hover, a:active
+      text-decoration: none
+      color: $my_base3
+      padding: 1em
   .hire-me
     color: $my_magneta
     font-size: 1.7em
