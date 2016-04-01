@@ -10,7 +10,7 @@ $(document).ready(function() {
   $(".hire-me").click(function(event) {
     event.preventDefault();
 
-    var viewPortSize = $(window).height();
-    scrollTo(viewPortSize);
+    var screenSize = $(".full-screen").outerHeight();
+    scrollTo(screenSize);
   });
 });
