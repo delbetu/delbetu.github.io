@@ -11,8 +11,12 @@ layout: default
     <div class="row">
       <p>
         I'm a software developer from Montevideo, Uruguay working on RoR since 2014.<br>
-        I believe agile methodologies are the real formula to build reliable software.<br>
         I enjoy writing, sharing, discussing code and learning everyday.<br>
+        I prefer to be more a professional rather than a rockstar programmer.<br>
+        I like working with high skilled professionals who help me grow.<br>
+        I don't like time pressures because usually drives developers to deliver bad code.<br>
+        I like to learn new technologies. Currently interested in functional programming.<br>
+        I like to spend time in side projects in order to keep learning.<br>
       </p>
     </div>
 
@@ -29,8 +33,7 @@ layout: default
         href="https://github.com/delbetu/resume/blob/master/resume.pdf">
         <i class="fa fa-2x fa-book"></i>
       </a>
-      <a target="_blank" data-toggle="tooltip" title="Sample Code"
-        href="https://github.com/delbetu/todo-app">
+      <a id="sample-code-link" href="#" data-toggle="tooltip" title="Sample Code">
         <i class="fa fa-2x fa-pencil"></i>
       </a>
       <a target="_blank" data-toggle="tooltip" title="Github"
@@ -44,7 +47,36 @@ layout: default
     </div>
 
     <div class="row">
-      <a href="#" class="hire-me">Contact Me!</a>
+      <a href="#" class="hire-me" id="hire-me-button">Contact Me!</a>
+    </div>
+  </div>
+
+  <div class="row full-screen sample-code-container">
+    <div class="sample-code-card">
+      <h2> Task Logger (Ruby + Rspec)</h2>
+      <a href="https://github.com/delbetu/task_logger">View on Github</a>
+      <div class="description">
+        <p>
+        Task logger is a simple console app for loggin your daily work.<br>
+        It was developed using TDD, splitting code responsiblities into IO-interactor objects and UI program and Core functionality.<br>
+        Core objects were tested first moking the interaction with collaborators.<br>
+        That revealed the interface that IO objects should met.<br>
+        This app interacts with external API as an IO device, and File storage as another IO device<br>
+        </p>
+      </div>
+    </div>
+
+    <div class="sample-code-card">
+      <h2> TODO App (BackboneJs + Rails)</h2>
+      <a href="https://github.com/delbetu/todo-app">View on Github</a>
+      <div class="description">
+        <p>
+        This application is composed of two different projects backend and fronted.<br>
+        Backend is a Rails 4 app which exposes a simple API to manage list of tasks.<br>
+        Frontend is a backbone app which consumes the rails API.<br>
+        This application was built with no previous knowledge of backbone-js. It was just to experiment new technologies.<br>
+        </p>
+      </div>
     </div>
   </div>
 
