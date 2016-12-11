@@ -2,3 +2,4 @@ _site
 .sass-cache
 *.un~
 *.swp
+.DS_Store
