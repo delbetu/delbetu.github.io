@@ -7,3 +7,5 @@ layout: default
 
 Jenkins uses [Liquid](https://shopify.github.io/liquid/basics/introduction/)
 
+[Styling Markdown](https://digitaldrummerj.me/styling-jekyll-markdown/)
+
