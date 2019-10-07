@@ -3,7 +3,7 @@ layout: resume_layout
 ---
 
 # Marcos Bellucci ![photo](https://s.gravatar.com/avatar/aa13dc88f709dd1b1ec9b6b24e85089f?s=80){:.float-right.gravatar}
-_Montevideo, UY GMT-3_  _(+598)98-613-144 delbetu@gmail.com_{:.float-right}
+_Montevideo, UY GMT-3_   _:iphone: (+598)98-613-144 :email: delbetu@gmail.com_{:.float-right}
 
 ## Summary
 ---
@@ -64,7 +64,6 @@ Ability to deliver well tested, intention revealing, unit composable software.
 | Refactoring           |&#9733; &#9733; &#9733; &#9733;         |
 | Design Patterns       |&#9733; &#9733; &#9733;                 |
 | English               |&#9733; &#9733; &#9733; &#9733;         |
-|-----------------------|----------------------------------------|  
 
 ## References
 ---
