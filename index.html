@@ -108,25 +108,3 @@ layout: default
       <input type="hidden" name="_next" value="{{ page.url }}"></input>
     </form>
   </div>
-
-	<!-- =============== Showing first 16 skills in two columns =============== -->
-	<div class="row full-screen section dark">
-    <h2 class="col-12 section-title">Skills</h2>
-		{% assign skills = site.data.resume.skills %}
-
-		<div class="col-6">
-			{% for skill in skills limit:8 %}
-				{% include skill.html name=skill.name percentage=skill.percentage %}
-				</br>
-			{% endfor %}
-		</div>
-
-		<div class="col-6">
-			{% for skill in skills offset:8 limit:8 %}
-				{% include skill.html name=skill.name percentage=skill.percentage %}
-				</br>
-			{% endfor %}
-		</div>
-	</div>
-
-</div>
