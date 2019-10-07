@@ -3,7 +3,7 @@ layout: resume_layout
 ---
 
 # Marcos Bellucci ![photo](https://s.gravatar.com/avatar/aa13dc88f709dd1b1ec9b6b24e85089f?s=80){:.float-right.gravatar}
-_Montevideo, UY GMT-3_   _:iphone: (+598)98-613-144 :email: delbetu@gmail.com_{:.float-right}
+_Montevideo, UY GMT-3_   _&#9742; (+598)98-613-144 &#9993; delbetu@gmail.com_{:.float-right}
 
 ## Summary
 ---
@@ -55,15 +55,15 @@ Ability to deliver well tested, intention revealing, unit composable software.
 |    Skill              |         Confidence                     |
 ------------------------|----------------------------------------|
 | Ruby / Rails          |&#9733; &#9733; &#9733; &#9733; &#9733; |
-| OOP                   |&#9733; &#9733; &#9733; &#9733;         |
-| HTML / CSS            |&#9733; &#9733; &#9733;                 |
-| React / Redux         |&#9733; &#9733;                         |
-| Agile / Scrum         |&#9733; &#9733; &#9733; &#9733;         |
+| OOP                   |&#9733; &#9733; &#9733; &#9733; &#9734; |
+| HTML / CSS            |&#9733; &#9733; &#9733; &#9734; &#9734; |
+| React / Redux         |&#9733; &#9733; &#9734; &#9734; &#9734; |
+| Agile / Scrum         |&#9733; &#9733; &#9733; &#9733; &#9734; |
 | Git                   |&#9733; &#9733; &#9733; &#9733; &#9733; |
-| TDD                   |&#9733; &#9733; &#9733;                 |
-| Refactoring           |&#9733; &#9733; &#9733; &#9733;         |
-| Design Patterns       |&#9733; &#9733; &#9733;                 |
-| English               |&#9733; &#9733; &#9733; &#9733;         |
+| TDD                   |&#9733; &#9733; &#9733; &#9734; &#9734; |
+| Refactoring           |&#9733; &#9733; &#9733; &#9733; &#9734; |
+| Design Patterns       |&#9733; &#9733; &#9733; &#9734; &#9734; |
+| English               |&#9733; &#9733; &#9733; &#9733; &#9734; |
 
 ## References
 ---
