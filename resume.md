@@ -4,6 +4,7 @@ layout: resume_layout
 
 # Marcos Bellucci ![photo](https://s.gravatar.com/avatar/aa13dc88f709dd1b1ec9b6b24e85089f?s=80){:.float-right.gravatar}
 _Montevideo, UY GMT-3_   _&#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com_{:.float-right}  
+[:printer:](){:.no-print.print-button onclick="window.print();"}
 
 {:.only-print.print-footer}
 Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
