@@ -28,7 +28,7 @@ Ability to deliver well tested, intention revealing, unit composable software.
 ## Experience
 ---
 
-**Senior Software Engineer at *Oktana*                       *Feb '17 - Sep '19*{:.float-right}**
+**Senior Software Engineer at *Oktana*                       *Feb '17 - current*{:.float-right}**
  - Collaborate on re-design/implement new content processing API preparing it for multi-tenancy support.
  - Maintained legacy automated content processing tools using `jenkins`.
  - Reduced execution time from hours to minutes for content processing by parallelizing jobs.
