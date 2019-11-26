@@ -29,39 +29,43 @@ Ability to deliver well tested, intention revealing, unit composable software.
 ---
 
 **Senior Software Engineer at *Oktana*                       *Feb '17 - current*{:.float-right}**
- - Collaborate on re-design/implement new content processing API preparing it for multi-tenancy support.
+ - Collaborate on designing/implementing content processing system distributed across multiple projects.
+ - Refactor projects (API and Web) for multi-tenancy support.
  - Maintained legacy automated content processing tools using `jenkins`.
  - Reduced execution time from hours to minutes for content processing by parallelizing jobs.
- - Helped on-boarding newcomers by having 1-1 meetings and preparing documentation.
- - Investigate/Solve produciton issues by looking at `new-relic&sumologic` and code inspection.
+ - Helped with newcomers on-boarding by having 1-1 meetings and preparing documentation for them.
+ - Investigate/Solve production issues using monitoring services and code inspection.
 
 
 **Software Engineer at *Tarmac*                              *Mar '16 - Feb '17*{:.float-right}**
- - Learn non familiar front-end framework `Angular-Jasmine` in order to fast contribute to current project.
- - Develop internal tool for refering candidates.
+ - Migrate legacy web pages HTML/Javascript to Angular.
+ - Identify bottlenecks and mitigate them by resolving N+1 queries, adding pagination, unnecessary queries
+ - Develop internal Rails app for referring candidates.
 
 
 **Web Developer at *Wyeworks*                                *Feb '14 - Feb '16*{:.float-right}**
- - Colaborate on re-building a product from scratch (auth-n/z, resource-crud, css, event-reservations).
- - Diagnose/fix page-load issues by minifing/compressing assets and cache policy customization.
- - Fix/Re-Implement clinic statistics dashboard with multiple charts and .
- - Participated on small scrum-teams organizing-spliting tasks and continuesly improving our dev process.
+ - Rebuild from scratch existing product for promoting events in NY.
+ - Integrate with AdSense
+ - Diagnose/fix page-load issues by minifying/compressing assets and cache policy customization.
+ - Fix/Re-Implement clinic statistics dashboard with multiple charts.
+ - Participated on small scrum-teams organizing-splitting tasks and continuously improving our dev process.
 
 
 **Junior and Mid Developer at *Mides* <sub>part-time</sub> *Jun '10 - Jan '14*{:.float-right}**
- - Collaborate on gathering requirements, building and releasing production ready app using JavaEE.
- - Develop a gmap-app consuming and visualizing multiple institution' data.
- - Perform a management role (similar to scrum master) for a few months.
+ - Gathering requirements, building and releasing production ready app using JavaEE.
+ - Develop a gmap-app for exploring and visualizing multiple government institution' data.
+ - Managed a small team (similar to scrum master) for a few months.
+ - Implemented a different online surveys for needy people
 <!--- Qflow -> -->
 
 
 **Programming Professor at *Bios*  <sub>part-time</sub>    *Mar '12 - Dec '14*{:.float-right}**
  - Teaching from basic C# OOP console apps to simple web app using ADO+ASP.NET.
 
-
 ## Skills
 ---
 
+{:.col}
 |    Skill              |         Confidence                     |
 ------------------------|----------------------------------------|
 | Ruby / Rails          |&#9733; &#9733; &#9733; &#9733; &#9733; |
@@ -69,6 +73,12 @@ Ability to deliver well tested, intention revealing, unit composable software.
 | HTML / CSS            |&#9733; &#9733; &#9733; &#9734; &#9734; |
 | React / Redux         |&#9733; &#9733; &#9734; &#9734; &#9734; |
 | Agile / Scrum         |&#9733; &#9733; &#9733; &#9733; &#9734; |
+
+<div class='col' style='width: 15%'/>
+
+{:.col}
+|    Skill              |         Confidence                     |
+------------------------|----------------------------------------|
 | Git                   |&#9733; &#9733; &#9733; &#9733; &#9733; |
 | TDD                   |&#9733; &#9733; &#9733; &#9734; &#9734; |
 | Refactoring           |&#9733; &#9733; &#9733; &#9733; &#9734; |
@@ -87,6 +97,13 @@ Chicago, Illinois
 vkulkarni@salesforce.com  
 
 Vaidehi was my direct manager while I worked as Software Engineer for Salesforce at Trailhead from 2018 to 2019.
+
+**Carlos Ghan**  
+Technical leader, Oktana  
+Montevideo, Uruguay  
+cgahn@oktana.com  
+
+Carlos was my boss and teammate while working at Trailhead.
 
 <!--
 Expressed Skills
