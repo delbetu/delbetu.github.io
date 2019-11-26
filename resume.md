@@ -40,13 +40,16 @@ Ability to deliver well tested, intention revealing, unit composable software.
 **Software Engineer at *Tarmac*                              *Mar '16 - Feb '17*{:.float-right}**
  - Migrate legacy web pages HTML/Javascript to Angular.
  - Identify bottlenecks and mitigate them by resolving N+1 queries, adding pagination, unnecessary queries
- - Develop internal Rails app for referring candidates.
+ - Create MVP Rails app for referring candidates.
+ - Find and fix bugs
+ - Create a dashboard showing summarised data.
+ - Automate feature tests
 
 
 **Web Developer at *Wyeworks*                                *Feb '14 - Feb '16*{:.float-right}**
  - Rebuild from scratch existing product for promoting events in NY.
  - Integrate with AdSense
- - Diagnose/fix page-load issues by minifying/compressing assets and cache policy customization.
+ - Diagnose/fix page-load issues by minifying/compressing assets and join images(css-sprite).
  - Fix/Re-Implement clinic statistics dashboard with multiple charts.
  - Participated on small scrum-teams organizing-splitting tasks and continuously improving our dev process.
 
