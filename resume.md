@@ -41,55 +41,62 @@ Ability to deliver well tested, intention revealing, unit composable software.
  - Migrate legacy web pages HTML/Javascript to Angular.
  - Identify bottlenecks and mitigate them by resolving N+1 queries, adding pagination, unnecessary queries
  - Create MVP Rails app for referring candidates.
- - Find and fix bugs
+ - Find and fix bugs.
  - Create a dashboard showing summarised data.
- - Automate feature tests
+ - Automate feature tests.
 
 
 **Web Developer at *Wyeworks*                                *Feb '14 - Feb '16*{:.float-right}**
  - Rebuild from scratch existing product for promoting events in NY.
- - Integrate with AdSense
+ - Integrate with AdSense.
  - Diagnose/fix page-load issues by minifying/compressing assets and join images(css-sprite).
  - Fix/Re-Implement clinic statistics dashboard with multiple charts.
- - Participated on small scrum-teams organizing-splitting tasks and continuously improving our dev process.
 
 
 **Junior and Mid Developer at *Mides* <sub>part-time</sub> *Jun '10 - Jan '14*{:.float-right}**
  - Gathering requirements, building and releasing production ready app using JavaEE.
  - Develop a gmap-app for exploring and visualizing multiple government institution' data.
  - Managed a small team (similar to scrum master) for a few months.
- - Implemented a different online surveys for needy people
+ - Implemented a different online surveys for needy people.
 <!--- Qflow -> -->
 
 
 **Programming Professor at *Bios*  <sub>part-time</sub>    *Mar '12 - Dec '14*{:.float-right}**
  - Teaching from basic C# OOP console apps to simple web app using ADO+ASP.NET.
 
+<div class='pagebreak'></div>
+
 ## Skills
 ---
 
 {:.col}
-|    Skill              |         Confidence                     |
+|    Coding Skills      |                                        |
 ------------------------|----------------------------------------|
-| Ruby / Rails          |&#9733; &#9733; &#9733; &#9733; &#9733; |
 | OOP                   |&#9733; &#9733; &#9733; &#9733; &#9734; |
-| HTML / CSS            |&#9733; &#9733; &#9733; &#9734; &#9734; |
-| React / Redux         |&#9733; &#9733; &#9734; &#9734; &#9734; |
+| TDD                   |&#9733; &#9733; &#9733; &#9734; &#9734; |
+| Refactoring           |&#9733; &#9733; &#9733; &#9733; &#9734; |
+| Design Patterns       |&#9733; &#9733; &#9733; &#9734; &#9734; |
 | Agile / Scrum         |&#9733; &#9733; &#9733; &#9733; &#9734; |
+| Web Development       |&#9733; &#9733; &#9733; &#9733; &#9734; |
+| Unit Testing          |&#9733; &#9733; &#9733; &#9733; &#9734; |
+| English               |&#9733; &#9733; &#9733; &#9733; &#9734; |
 
 <div class='col' style='width: 15%'/>
 
 {:.col}
-|    Skill              |         Confidence                     |
+|    Tech Skills        |                                        |
 ------------------------|----------------------------------------|
 | Git                   |&#9733; &#9733; &#9733; &#9733; &#9733; |
-| TDD                   |&#9733; &#9733; &#9733; &#9734; &#9734; |
-| Refactoring           |&#9733; &#9733; &#9733; &#9733; &#9734; |
-| Design Patterns       |&#9733; &#9733; &#9733; &#9734; &#9734; |
-| English               |&#9733; &#9733; &#9733; &#9733; &#9734; |
+| Ruby / Rails          |&#9733; &#9733; &#9733; &#9733; &#9733; |
+| Heroku                |&#9733; &#9733; &#9733; &#9733; &#9734; |
+| Unix(Mac/Linux)       |&#9733; &#9733; &#9733; &#9733; &#9734; |
+| HTML / CSS            |&#9733; &#9733; &#9733; &#9734; &#9734; |
+| Javascript            |&#9733; &#9733; &#9733; &#9734; &#9734; |
+| Databases/SQL         |&#9733; &#9733; &#9733; &#9733; &#9734; |
+| React / Redux         |&#9733; &#9733; &#9734; &#9734; &#9734; |
+| Jenkins               |&#9733; &#9733; &#9733; &#9734; &#9734; |
 
 <br/>
-<div class='pagebreak'></div>
 
 ## References
 ---
