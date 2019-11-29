@@ -3,7 +3,7 @@ email: delbetu@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Personal website to show who am i and how i work.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://delbetu.github.io"
+url: "https://delbetu.github.io"
 twitter_username: delbetu
 github_username:  delbetu
 plugins:
