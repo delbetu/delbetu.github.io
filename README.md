@@ -23,3 +23,8 @@ title: Page title
 ---
 ```
 
+## Writing posts
+- _draft folder or front matter `draft: true`
+- _posts folder with format YY-MM-DD-title.md
+- preview draft by running jekyll build/serve --draft It will use current day
+
