@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: post
 title: A sample post
 categories: [the-refactoring-guy]
 tags: [refactoring, tdd, design-patterns]
-draft: true
+comments: true
+draft: false
 
 ---
 
