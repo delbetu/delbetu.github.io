@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Home
 ---
 
 <div class="container text-center">
@@ -54,53 +55,5 @@ layout: default
       </a>
 
     </div>
-
-    <div class="row">
-      <a href="#" class="hire-me" id="hire-me-button">Contact Me!</a>
-    </div>
   </div>
 
-  <div class="row full-screen section dark">
-    <h2 class="section-title">Sample Code</h2>
-    <div class="sample-code-card">
-      <h2> Task Logger (Ruby + Rspec)</h2>
-      <a href="https://github.com/delbetu/task_logger">View on Github</a>
-      <div class="description">
-        <p>
-        Task logger is a simple console app for loggin your daily work.<br>
-        It was developed using TDD, splitting code responsiblities into IO-interactor objects and UI program and Core functionality.<br>
-        Core objects were tested first moking the interaction with collaborators.<br>
-        That revealed the interface that IO objects should met.<br>
-        This app interacts with external API as an IO device, and File storage as another IO device<br>
-        </p>
-      </div>
-    </div>
-
-    <div class="sample-code-card">
-      <h2> TODO App (BackboneJs + Rails)</h2>
-      <a href="https://github.com/delbetu/todo-app">View on Github</a>
-      <div class="description">
-        <p>
-        This application is composed of two different projects backend and fronted.<br>
-        Backend is a Rails 4 app which exposes a simple API to manage list of tasks.<br>
-        Frontend is a backbone app which consumes the rails API.<br>
-        This application was built with no previous knowledge of backbone-js. It was just to experiment new technologies.<br>
-        </p>
-      </div>
-    </div>
-  </div>
-
-  <div class="row full-screen section">
-    <h2 class="section-title">Get in touch</h2>
-    <form action="//formspree.io/delbetu@gmail.com" method="POST" id="contact-form">
-
-      <input class="form-group form-control" type="email" name="from" placeholder="Email address" required>
-
-      <input class="form-group form-control" type="text" name="name" placeholder="Name">
-
-      <textarea class="form-group form-control" name="message-body" rows="8" cols="40" placeholder="Your message ..."></textarea>
-
-      <button type="submit" class="btn btn-lg btn-primary">Send</button>
-      <input type="hidden" name="_next" value="{{ page.url }}"></input>
-    </form>
-  </div>

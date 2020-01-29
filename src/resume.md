@@ -1,5 +1,7 @@
 ---
 layout: resume_layout
+title: Resume
+
 ---
 
 # Marcos Bellucci ![photo](https://s.gravatar.com/avatar/aa13dc88f709dd1b1ec9b6b24e85089f?s=80){:.float-right.gravatar}
