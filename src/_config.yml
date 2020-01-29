@@ -6,6 +6,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://delbetu.github.io"
 twitter_username: delbetu
 github_username:  delbetu
+
+source: 'src'
+destination: '_site'
+
 plugins:
   - jemoji
 
