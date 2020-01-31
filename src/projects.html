@@ -3,47 +3,40 @@ layout: page
 title: Projects
 ---
 
-  <div class="row full-screen section dark">
+<div class='card-deck'>
+  <div class='card'>
+    <img src='/assets/images/task-logger.png' class='card-img-top' alt='task-logger-screenshot'>
+    <div class='card-body'>
+      <h5 class='card-title'>Task Logger (Ruby + Rspec)</h5>
+      <p class='card-text'>
+        Task logger is a simple console app for loggin your daily work.<br>
+        It was developed using TDD, splitting code responsiblities into IO-interactor objects and UI program and Core functionality.<br>
+        Core objects were tested first moking the interaction with collaborators.<br>
+        That revealed the interface that IO objects should met.<br>
+        This app interacts with external API as an IO device, and File storage as another IO device<br>
+      </p>
+    </div>
 
-    <div class="row">
-      <div class="col-sm-6 col-md-4">
-        <div class="thumbnail">
-          <img src="/assets/images/super-mario.jpg" alt="sample image">
-          <div class="caption">
-            <h3> TODO App (BackboneJs + Rails)</h3>
-            <p>
-            This application is composed of two different projects backend and fronted.<br>
-            Backend is a Rails 4 app which exposes a simple API to manage list of tasks.<br>
-            Frontend is a backbone app which consumes the rails API.<br>
-            This application was built with no previous knowledge of backbone-js. It was just to experiment new technologies.<br>
-            </p>
-
-            <p>
-              <a href="https://github.com/delbetu/todo-app" class="btn btn-primary" role="button">View on Github</a>
-              <a href="https://todo--backbone.herokuapp.com/" class="btn btn-default" role="button">Live</a>
-            </p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-sm-6 col-md-4">
-        <div class="thumbnail">
-          <img src="/assets/images/super-mario.jpg" alt="sample image">
-          <div class="caption">
-            <h3> Task Logger (Ruby + Rspec)</h3>
-            <p>
-            Task logger is a simple console app for loggin your daily work.<br>
-            It was developed using TDD, splitting code responsiblities into IO-interactor objects and UI program and Core functionality.<br>
-            Core objects were tested first moking the interaction with collaborators.<br>
-            That revealed the interface that IO objects should met.<br>
-            This app interacts with external API as an IO device, and File storage as another IO device<br>
-            </p>
-
-            <p>
-              <a href="https://github.com/delbetu/task_logger" class="btn btn-primary" role="button">View on Github</a>
-            </p>
-          </div>
-        </div>
-      </div>
+    <div class='card-footer'>
+      <a href='https://github.com/delbetu/task_logger' class='btn btn-primary' role='button'>Github</a>
     </div>
   </div>
+
+  <div class='card'>
+    <img src='/assets/images/todo-app.png' class='card-img-top' alt='todo-app-screenshot'>
+    <div class='card-body'>
+      <h5 class='card-title'> TODO App (BackboneJs + Rails)</h5>
+      <p class='card-text'>
+        This application is composed of two different projects backend and fronted.<br>
+        Backend is a Rails 4 app which exposes a simple API to manage list of tasks.<br>
+        Frontend is a backbone app which consumes the rails API.<br>
+        This application was built with no previous knowledge of backbone-js. It was just to experiment new technologies.<br>
+      </p>
+    </div>
+
+    <div class='card-footer'>
+      <a href='https://github.com/delbetu/todo-app' class='btn btn-primary' role='button'>Github</a>
+      <a href='https://todo--backbone.herokuapp.com/' class='btn btn-default' role='button'>Live</a>
+    </div>
+  </div>
+</div>
