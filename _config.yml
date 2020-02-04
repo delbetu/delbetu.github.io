@@ -7,7 +7,7 @@ url: "https://delbetu.github.io"
 twitter_username: delbetu
 github_username:  delbetu
 
-source: '_src'
+source: '.'
 destination: '_site'
 
 plugins:
