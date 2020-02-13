@@ -3,6 +3,7 @@
 
 
 ## Running site locally
+
 ```bash
 $ gem install jekyll
 $ jekyll serve
