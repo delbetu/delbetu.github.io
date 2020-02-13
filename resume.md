@@ -1,5 +1,7 @@
 ---
 layout: resume_layout
+title: Resume
+
 ---
 
 # Marcos Bellucci ![photo](https://s.gravatar.com/avatar/aa13dc88f709dd1b1ec9b6b24e85089f?s=80){:.float-right.gravatar}
@@ -88,12 +90,12 @@ Ability to deliver well tested, intention revealing, unit composable software.
 ------------------------|----------------------------------------|
 | Git                   |&#9733; &#9733; &#9733; &#9733; &#9733; |
 | Ruby / Rails          |&#9733; &#9733; &#9733; &#9733; &#9733; |
+| React / Redux         |&#9733; &#9733; &#9733; &#9734; &#9734; |
+| Javascript            |&#9733; &#9733; &#9733; &#9734; &#9734; |
 | Heroku                |&#9733; &#9733; &#9733; &#9733; &#9734; |
 | Unix(Mac/Linux)       |&#9733; &#9733; &#9733; &#9733; &#9734; |
 | HTML / CSS            |&#9733; &#9733; &#9733; &#9734; &#9734; |
-| Javascript            |&#9733; &#9733; &#9733; &#9734; &#9734; |
 | Databases/SQL         |&#9733; &#9733; &#9733; &#9733; &#9734; |
-| React / Redux         |&#9733; &#9733; &#9734; &#9734; &#9734; |
 | Jenkins               |&#9733; &#9733; &#9733; &#9734; &#9734; |
 
 <br/>
@@ -105,6 +107,7 @@ Ability to deliver well tested, intention revealing, unit composable software.
 Manager at Salesforce, Trailhead  
 Chicago, Illinois  
 vkulkarni@salesforce.com  
++1 630-235-1168  
 
 Vaidehi was my direct manager while I worked as Software Engineer for Salesforce at Trailhead from 2018 to 2019.
 
@@ -112,6 +115,7 @@ Vaidehi was my direct manager while I worked as Software Engineer for Salesforce
 Technical leader, Oktana  
 Montevideo, Uruguay  
 cgahn@oktana.com  
++598 99-038-590  
 
 Carlos was my boss and teammate while working at Trailhead.
 
