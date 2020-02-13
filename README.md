@@ -28,3 +28,27 @@ title: Page title
 - _posts folder with format YY-MM-DD-title.md
 - preview draft by running jekyll build/serve --draft It will use current day
 
+## Reference for this site
+- https://koppl.in/indigo/
+- Index page has default layout --> It shows the about content, a picture and social links
+- The page layout includes a header and a footer
+- The post layout includes header footer title date and author
+
+```
+Pages
+   |--> Home
+   |--> Pages
+   |--> Projects
+   |--> About
+   |--> Blog
+Posts
+ |--> Posts
+```
+
+## Help
+
+[Link to a page]({{ site.baseurl }}{% link index.html %})
+
+Jenkins uses [Liquid](https://shopify.github.io/liquid/basics/introduction/)
+
+[Styling Markdown](https://digitaldrummerj.me/styling-jekyll-markdown/)
