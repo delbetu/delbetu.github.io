@@ -7,9 +7,6 @@ title: Home
 a {
   color: grey;
 }
-.social-icons a {
-  color: black;
-}
 .container {
   margin-top: 20vh;
   max-width: 80vw;
@@ -38,43 +35,8 @@ a {
   </div>
 
   <div class='row align-items-center'>
-    <ul class='list-inline col text-center social-icons' >
-      <li class='list-inline-item'>
-        <a target="_blank" data-toggle="tooltip" title="Linkedin"
-                                                 href="https://www.linkedin.com/in/marcos-bellucci-fratti-76b07918/?locale=en_US">
-          <i class="fa fa-2x fa-linkedin"></i>
-        </a>
-      </li>
-
-      <li class='list-inline-item'>
-        <a target="_blank" data-toggle="tooltip" title="Dev.to"
-                                                 href="https://dev.to/delbetu">
-          <img class="invert-svg-color fix-margin" style='margin-bottom: 10px;'
-               src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"
-               alt="M Bellucci's DEV Profile" height="28" width="24" />
-        </a>
-      </li>
-
-      <li class='list-inline-item'>
-        <a target="_blank" data-toggle="tooltip" title="Twitter"
-                                                 href="https://twitter.com/delbetu" >
-                                                 <i class="fa fa-2x fa-twitter"></i>
-        </a>
-      </li>
-
-      <li class='list-inline-item'>
-        <a target="_blank" data-toggle="tooltip" title="Github"
-                                                 href="https://github.com/delbetu">
-          <i class="fa fa-2x fa-github"></i>
-        </a>
-      </li>
-
-      <li class='list-inline-item'>
-        <a target="_blank" data-toggle="tooltip" title="Meetup"
-                                                 href="http://www.meetup.com/es-ES/members/87421642/">
-          <i class="fa fa-2x fa-meetup"></i>
-        </a>
-      </li>
-    </ul>
+    <div class='col text-center'>
+      {% include social_icons.html %}
+    </div>
   </div>
 </div>
