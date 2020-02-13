@@ -9,6 +9,8 @@ github_username:  delbetu
 
 plugins:
   - jemoji
+  - jekyll-sitemap
+
 
 # Build settings
 markdown: kramdown
