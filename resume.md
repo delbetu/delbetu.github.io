@@ -18,9 +18,9 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
 
 ## Summary
 ---
-Strong background in developing Object Oriented applications in Ruby/Rails and Java.  
-Ability to discover/understand the business requirements and design the right solution.  
-Ability to deliver well tested, intention revealing, unit composable software.  
+I'm a Software Engineer with 5+ years of experience in web-development.  
+Continously learning, allways passionate about talking/discussing about software building topics.  
+One of my main goals is to release code that is built to last (well tested, intention revealing, unit composable software) whilst helping the team to keep the focus on current goals and maintaining a clear big-picture in mind.  
 
 ## Education
 ---
@@ -30,13 +30,12 @@ Ability to deliver well tested, intention revealing, unit composable software.
 ## Experience
 ---
 
-**Senior Software Engineer at *Oktana*                       *Feb '17 - current*{:.float-right}**
- - Collaborate on designing/implementing content processing system distributed across multiple projects.
- - Refactor projects (API and Web) for multi-tenancy support.
- - Maintained legacy automated content processing tools using `jenkins`.
- - Reduced execution time from hours to minutes for content processing by parallelizing jobs.
+**Senior Software Engineer at *Oktana*                       *Feb '17 - Jan '20*{:.float-right}**
+ - Desig/implement new distributed content processing system.
+ - Implement API endpoints for Mobile app based on OData protocol.
+ - Enhance existing solution (API and Web projects) for multi-tenancy support.
+ - Maintain a legacy system that processes and publish content. Reducing its total execution time at the half.
  - Helped with newcomers on-boarding by having 1-1 meetings and preparing documentation for them.
- - Investigate/Solve production issues using monitoring services and code inspection.
 
 
 **Software Engineer at *Tarmac*                              *Mar '16 - Feb '17*{:.float-right}**
@@ -90,13 +89,14 @@ Ability to deliver well tested, intention revealing, unit composable software.
 ------------------------|----------------------------------------|
 | Git                   |&#9733; &#9733; &#9733; &#9733; &#9733; |
 | Ruby / Rails          |&#9733; &#9733; &#9733; &#9733; &#9733; |
-| React / Redux         |&#9733; &#9733; &#9733; &#9734; &#9734; |
-| Javascript            |&#9733; &#9733; &#9733; &#9734; &#9734; |
+| React / Redux         |&#9733; &#9733; &#9733; &#9733; &#9734; |
+| Javascript            |&#9733; &#9733; &#9733; &#9733; &#9734; |
 | Heroku                |&#9733; &#9733; &#9733; &#9733; &#9734; |
 | Unix(Mac/Linux)       |&#9733; &#9733; &#9733; &#9733; &#9734; |
 | HTML / CSS            |&#9733; &#9733; &#9733; &#9734; &#9734; |
 | Databases/SQL         |&#9733; &#9733; &#9733; &#9733; &#9734; |
 | Jenkins               |&#9733; &#9733; &#9733; &#9734; &#9734; |
+| Docker                |&#9733; &#9733; &#9734; &#9734; &#9734; |
 
 <br/>
 
@@ -126,8 +126,8 @@ Expressed Skills
 - [X] English
 - [X] Hard skills
 - [X] Fast learning
-- [ ] Constant Improving
-- [ ] Strong problem solving and analytical skills
+- [X] Constant Improving
+- [X] Strong problem solving and analytical skills
 
 TODO
 ---
