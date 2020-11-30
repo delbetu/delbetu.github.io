@@ -37,7 +37,7 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
 
 **Fullstack Senior Software Engineer at *Occupier*                       *Mar '20 - ...*{:.float-right}**
  - Developing core product features + enhancing existing ones
- - SaaS solution bilding with React/Redux component integrating with rails API
+ - SaaS solution built with React/Redux + Rails API
  - Occupier help companies administrate their leases
 
 **Senior Software Engineer at *Oktana*                       *Feb '17 - Feb '20*{:.float-right}**
