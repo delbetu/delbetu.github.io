@@ -18,9 +18,14 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
 
 ## Summary
 ---
-I'm a Software Engineer with 5+ years of experience in web-development.  
-Continously learning, allways passionate about talking/discussing about software building topics.  
-One of my main goals is to release code that is built to last (well tested, intention revealing, unit composable software) whilst helping the team to keep the focus on current goals and maintaining a clear big-picture in mind.  
+- Senior Software Engineer with 8+ years of experience.
+- Currently focusing on Rails + React, interested on other languages such as GO/Elixir/Rust.
+- University degree in Computer Science, Strong OOP and Design patters knowledge.
+- Able to deliver high quality code (unit testing, refactoring, design patterns).
+- Able to learn and adapt quickly to new technologies
+- Good English communication, collaboration and interpersonal skills.
+- Experience working in Agile environment.
+
 
 ## Education
 ---
@@ -30,7 +35,12 @@ One of my main goals is to release code that is built to last (well tested, inte
 ## Experience
 ---
 
-**Senior Software Engineer at *Oktana*                       *Feb '17 - Jan '20*{:.float-right}**
+**Fullstack Senior Software Engineer at *Occupier*                       *Mar '20 - ...*{:.float-right}**
+ - Developing core product features + enhancing existing ones
+ - SaaS solution bilding with React/Redux component integrating with rails API
+ - Occupier help companies administrate their leases
+
+**Senior Software Engineer at *Oktana*                       *Feb '17 - Feb '20*{:.float-right}**
  - Desig/implement new distributed content processing system.
  - Implement API endpoints for Mobile app based on OData protocol.
  - Enhance existing solution (API and Web projects) for multi-tenancy support.
