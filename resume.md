@@ -35,12 +35,12 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
 ## Experience
 ---
 
-**Fullstack Senior Software Engineer at *Occupier*                       *Mar '20 - ...*{:.float-right}**
+**Fullstack Senior Software Engineer at *[Occupier](https://www.occupier.com/)*                       *Mar '20 - ...*{:.float-right}**
  - Developing core product features + enhancing existing ones
  - SaaS solution built with React/Redux + Rails API
  - Occupier help companies administrate their leases
 
-**Senior Software Engineer at *Oktana*                       *Feb '17 - Feb '20*{:.float-right}**
+**Senior Software Engineer at *[Trailhead](https://trailhead.salesforce.com/en/home)*                       *Feb '17 - Feb '20*{:.float-right}**
  - Desig/implement new distributed content processing system.
  - Implement API endpoints for Mobile app based on OData protocol.
  - Enhance existing solution (API and Web projects) for multi-tenancy support.
@@ -48,7 +48,7 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
  - Helped with newcomers on-boarding by having 1-1 meetings and preparing documentation for them.
 
 
-**Software Engineer at *Tarmac*                              *Mar '16 - Feb '17*{:.float-right}**
+**Software Engineer at *[Tarmac](https://tarmac.io/)*                              *Mar '16 - Feb '17*{:.float-right}**
  - Migrate legacy web pages HTML/Javascript to Angular.
  - Identify bottlenecks and mitigate them by resolving N+1 queries, adding pagination, unnecessary queries
  - Create MVP Rails app for referring candidates.
@@ -57,7 +57,7 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
  - Automate feature tests.
 
 
-**Web Developer at *Wyeworks*                                *Feb '14 - Feb '16*{:.float-right}**
+**Web Developer at *[Wyeworks](https://www.wyeworks.com/)*                                *Feb '14 - Feb '16*{:.float-right}**
  - Rebuild from scratch existing product for promoting events in NY.
  - Integrate with AdSense.
  - Diagnose/fix page-load issues by minifying/compressing assets and join images(css-sprite).
