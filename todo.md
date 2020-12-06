@@ -1,3 +1,4 @@
+- [X] Fix broken styles on index page
 - [X] Join AboutMe and index page
 - [X] Remove Contact Page
 - [X] Rename Projects for Portfolio
