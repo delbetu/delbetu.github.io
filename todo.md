@@ -1,5 +1,5 @@
-- [ ] Join AboutMe and index page
-- [ ] Remove Contact Page
+- [X] Join AboutMe and index page
+- [X] Remove Contact Page
 - [X] Rename Projects for Portfolio
 - [ ] Add OSS contributions to 
 - [ ] Remove stars and put icons along with years of experience on that tech
