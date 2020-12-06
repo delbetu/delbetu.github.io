@@ -1,3 +1,6 @@
+- [ ] Join AboutMe and index page
+- [ ] Remove Contact Page
+- [X] Rename Projects for Portfolio
 - [ ] Add OSS contributions to 
 - [ ] Remove stars and put icons along with years of experience on that tech
 - [ ] Add blog post
