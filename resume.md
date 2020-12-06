@@ -4,7 +4,7 @@ title: Resume
 
 ---
 
-# Marcos Bellucci ![photo](https://s.gravatar.com/avatar/aa13dc88f709dd1b1ec9b6b24e85089f?s=80){:.float-right.gravatar}
+# Marcos Bellucci ![photo](https://s.gravatar.com/avatar/b74aaa4709c3ce936ae609aacbe3b3aa?s=80){:.float-right.gravatar}
 _Montevideo, UY GMT-3_   _&#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com_{:.float-right}  
 [:printer:](){:.no-print.print-button onclick="window.print();"}
 
@@ -35,35 +35,49 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
 ## Experience
 ---
 
-**Fullstack Senior Software Engineer at *[Occupier](https://www.occupier.com/)*                       *Mar '20 - ...*{:.float-right}**
- - Occupier help companies administrate their leases
- - Helped to develop Lease Accounting features from scratch
- - SaaS solution built with React/Redux + Rails API
+**Fullstack Senior Software Engineer at [Truelogic](https://www.truelogicsoftware.com/)                           *Mar '20 - ...*{:.float-right}**  
+*[Occupier](https://www.occupier.com/)* <sub>SaaS product that helps companies administer their leases</sub>  
+ - Developing new Lease Accounting module
+ - Designing and implementing backend and frontend along with its end to end tests
+ - React, Redux, Typescript, Cypress, Rails, Postgres, Heroku
 
 
-**Senior Software Engineer at *[Trailhead](https://trailhead.salesforce.com/en/home)*                       *Feb '17 - Feb '20*{:.float-right}**
- - Trailhead is the e-learning platform powered by Salesforce.
+**Senior Software Engineer at [Oktana](https://www.oktana.com/)                        *Feb '17 - Feb '20*{:.float-right}**  
+*[Trailhead](https://trailhead.salesforce.com/en/home)*  <sub>e-learning platform powered by Salesforce</sub>
  - Desig/implement new distributed content processing system.
  - Implement API endpoints for Mobile app based on OData protocol.
  - Enhance existing solution (API and Web projects) for multi-tenancy support.
  - Maintain a legacy system that processes and publish content. Reducing its total execution time at the half.
  - Helped with newcomers on-boarding by having 1-1 meetings and preparing documentation for them.
+ - Rails, Postgres, Sidekiq, Heroku, React, Jwt, Cloudinary, S3, Swagger, Jenkins
 
-
-**Software Engineer at *[Tarmac](https://tarmac.io/)*                              *Mar '16 - Feb '17*{:.float-right}**
+**Software Engineer at *[Tarmac](https://tarmac.io/)*                               *Mar '16 - Feb '17*{:.float-right}**  
+*[Sportnging](https://www.sportsengine.com/)* <sub>American Junior Leagues administration software</sub>
  - Migrate legacy web pages HTML/Javascript to Angular.
  - Identify bottlenecks and mitigate them by resolving N+1 queries, adding pagination, unnecessary queries
+ - Rails 3, Angular 1
+
+*[ReferFriends](#)* <sub>Refer employees and get rewarded</sub>
  - Create MVP Rails app for referring candidates.
  - Find and fix bugs.
  - Create a dashboard showing summarised data.
  - Automate feature tests.
+ - Rails 3, Angular 1
 
+<div class='pagebreak'></div>
 
-**Web Developer at *[Wyeworks](https://www.wyeworks.com/)*                                *Feb '14 - Feb '16*{:.float-right}**
- - Rebuild from scratch existing product for promoting events in NY.
+**Web Developer at *[Wyeworks](https://www.wyeworks.com/)*                                     *Feb '14 - Feb '16*{:.float-right}**  
+*[Flavorpill](http://www.flavorpill.com/)* <sub>Promoting events in NY</sub>
+ - Participated on rebuilding app from scratch.
  - Integrate with AdSense.
+ - Add Social login
+ - Event Creation with rich editor
+ - Rails, Postgres, Javascript/jquery, Resque, Redis, Airbrake, Newrelic, Capistrano(Digital Ocean)
+
+*[Therapidia](https://www.therapydia.com/about/)* <sub>Referring patients between US clinics</sub>
  - Diagnose/fix page-load issues by minifying/compressing assets and join images(css-sprite).
  - Fix/Re-Implement clinic statistics dashboard with multiple charts.
+ - Rails, AWS, Mysql, CanCan Devise, NewRelic, Redis, Sidekiq
 
 
 **Junior and Mid Developer at *Mides* <sub>part-time</sub> *Jun '10 - Jan '14*{:.float-right}**
@@ -76,8 +90,6 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
 
 **Programming Professor at *Bios*  <sub>part-time</sub>    *Mar '12 - Dec '14*{:.float-right}**
  - Teaching from basic C# OOP console apps to simple web app using ADO+ASP.NET.
-
-<div class='pagebreak'></div>
 
 ## Skills
 ---
