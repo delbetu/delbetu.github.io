@@ -7,9 +7,21 @@ title: Blog
 {% for category in site.categories %}
 <h3>{{ category[0]  }}</h3>
 
-<ul>
+<section class="blog-list px-3 py-5 p-md-5">
   {% for post in category[1] %}
-    <li><a href="{{ post.url  }}">{{ post.title  }}</a></li>
+  <div class="container">
+    <div class="item mb-5">
+      <div class="media">
+        <img class="mr-3 img-fluid post-thumb d-none d-md-flex" src="{{ post.thumb }}" alt="image">
+        <div class="media-body">
+          <h3 class="title mb-1"><a href="{{ post.url  }}">{{ post.title }}</a></h3>
+          <div class="meta mb-1"><span class="date">Published 2 days ago</span><span class="time">5 min read</span><span class="comment"><a href="#">8 comments</a></span></div>
+          <div class="intro">{{ post.excerpt }}</div>
+          <a class="more-link" href="{{ post.url  }}">Read more →</a>
+        </div><!--//media-body-->
+      </div><!--//media-->
+    </div><!--//item-->
+  </div>
   {% endfor %}
-  </ul>
+</section>
 {% endfor %}

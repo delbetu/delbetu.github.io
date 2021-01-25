@@ -19,3 +19,6 @@ markdown: kramdown
 disqus:
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   shortname: delbetu
+
+jekyll_admin:
+  homepage: posts
