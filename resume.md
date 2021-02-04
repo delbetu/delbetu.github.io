@@ -37,9 +37,12 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
 
 **Fullstack Senior Software Engineer at [Truelogic](https://www.truelogicsoftware.com/)                           *Mar '20 - ...*{:.float-right}**  
 *[Occupier](https://www.occupier.com/)* <sub>SaaS product that helps companies administer their leases</sub>  
- - Developing new Lease Accounting module
- - Designing and implementing backend and frontend along with its end to end tests
- - React, Redux, Typescript, Cypress, Rails, Postgres, Heroku
+- individually built small to medium features end-to-end across the stack (accounting module from scratch)
+- Pairing, Code Review, QA, and mentor newcomers
+- Understand problems, discuss and propose solutions
+- Present the work done
+- Restful APIs, Advance SQL, Object-Oriented Design, Authorization, Serialization.
+- React, Redux, Rails, Typescript, Ruby, Heroku, Postgres
 
 
 **Senior Software Engineer at [Oktana](https://www.oktana.com/)                        *Feb '17 - Feb '20*{:.float-right}**  
