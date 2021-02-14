@@ -38,6 +38,8 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
 **Fullstack Senior Software Engineer at [Truelogic](https://www.truelogicsoftware.com/)                           *Mar '20 - ...*{:.float-right}**  
 *[Occupier](https://www.occupier.com/)* <sub>SaaS product that helps companies administer their leases</sub>  
 - individually built small to medium features end-to-end across the stack (accounting module from scratch)
+- Built a format independent long disclosures report using advance sql providing a modular solution.
+- Big Refactoring: changed a db json field implementation into a separate table.
 - Pairing, Code Review, QA, and mentor newcomers
 - Understand problems, discuss and propose solutions
 - Present the work done
