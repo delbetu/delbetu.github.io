@@ -35,6 +35,14 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
 ## Experience
 ---
 
+[//] # Writing Strong Bullets
+[//] # accomplishments approach: "Accomplished X by implementing Y which led to z"
+[//] # "Reduced object rendering time by 75% by implementing distributed caching, leading to a 10% reduction in log-in time"
+[//] # * what you did
+[//] # * how you did it,
+[//] # * and what the results were.
+[//] # * Ideally, results "measurable" somehow.
+
 **Fullstack Senior Software Engineer at [Truelogic](https://www.truelogicsoftware.com/)                           *Mar '20 - ...*{:.float-right}**  
 *[Occupier](https://www.occupier.com/)* <sub>SaaS product that helps companies administer their leases</sub>  
 - individually built small to medium features end-to-end across the stack (accounting module from scratch)
@@ -42,7 +50,7 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
 - Big Refactoring: changed a db json field implementation into a separate table.
 - Pairing, Code Review, QA, and mentor newcomers
 - Understand problems, discuss and propose solutions
-- Present the work done
+- Present the work done on weekly meeting
 - Restful APIs, Advance SQL, Object-Oriented Design, Authorization, Serialization.
 - React, Redux, Rails, Typescript, Ruby, Heroku, Postgres
 
@@ -64,10 +72,9 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
 
 *[ReferFriends](#)* <sub>Refer employees and get rewarded</sub>
  - Create MVP Rails app for referring candidates.
- - Find and fix bugs.
  - Create a dashboard showing summarised data.
- - Automate feature tests.
- - Rails 3, Angular 1
+ - Automate feature tests and fix bugs.
+ - Rails 3
 
 <div class='pagebreak'></div>
 
@@ -86,10 +93,9 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
 
 
 **Junior and Mid Developer at *Mides* <sub>part-time</sub> *Jun '10 - Jan '14*{:.float-right}**
- - Gathering requirements, building and releasing production ready app using JavaEE.
  - Develop a gmap-app for exploring and visualizing multiple government institution' data.
- - Managed a small team (similar to scrum master) for a few months.
  - Implemented a different online surveys for needy people.
+ - java, javascript, JPA, EJB, JSF
 <!--- Qflow -> -->
 
 
