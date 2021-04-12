@@ -35,13 +35,13 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
 ## Experience
 ---
 
-[//] # Writing Strong Bullets
-[//] # accomplishments approach: "Accomplished X by implementing Y which led to z"
-[//] # "Reduced object rendering time by 75% by implementing distributed caching, leading to a 10% reduction in log-in time"
-[//] # * what you did
-[//] # * how you did it,
-[//] # * and what the results were.
-[//] # * Ideally, results "measurable" somehow.
+<!-- # Writing Strong Bullets -->
+<!-- # accomplishments approach: "Accomplished X by implementing Y which led to z" -->
+<!-- # "Reduced object rendering time by 75% by implementing distributed caching, leading to a 10% reduction in log-in time" -->
+<!-- # * what you did -->
+<!-- # * how you did it, -->
+<!-- # * and what the results were. -->
+<!-- # * Ideally, results "measurable" somehow. -->
 
 **Fullstack Senior Software Engineer at [Truelogic](https://www.truelogicsoftware.com/)                           *Mar '20 - ...*{:.float-right}**  
 *[Occupier](https://www.occupier.com/)* <sub>SaaS product that helps companies administer their leases</sub>  
