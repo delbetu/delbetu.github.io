@@ -1,11 +1,12 @@
 # Description
 Lease Administration Software
+Lease Accounting
 
 # Functionality
 3 modules
 * Accounting
-Accountant import leases and add price/taxes calculates future payments.  
-Generate general ledgers and export data to be included in accountant software.  
+Accountant import leases and add price/taxes calculates future payments.
+Generate general ledgers and export data to be included in accountant software.
 
 * Lease Admin
 
@@ -15,9 +16,13 @@ Broker can help to find a lease and negotiate its price along with compare them 
 * Admin support
 
 # key_contributions
+* Writing down requirements
+* In depth reviewing other's Work
+* Organizing tech talks
+* Helping with hiring process, taking technical interviews and finding candidates
 * Build from scratch the accounting module
 * Big Refactoring: Changing the implementation of calendar periods (lot of calculations depends on it)
-from a json field representation into a separate table.
+from a json field representation into a separate table).
 * Built a format independent long disclosures report using advance sql providing a modular solution.
 * Include the review-approval process where an accountant works as part of a team that review each other's work
 
@@ -45,6 +50,20 @@ from a json field representation into a separate table.
 
 # Story
 
+### Implemented Icentives.
+Took a few weeks to accomplish.
+Requirements were very vague described.
+Took initiative and reach out people with questions.
+Wrote down example scenarios and share for feedback.
+Found several important problems that were missed at that point.
+Meet several times with team members in order to ensure my understanding was correct.
+Modeled a solution and planned the work, splitting down into stories.
+Executed the plan (programmed) splitting into small PR explaining how things work and why.
+Put that behind feature flag, anticipated to possible things that could go wrong.
+(data migration needs to run right before the deployment otherwise we could have wrong records)
+Presented my work on weekly meetings.
+Monitor production release and check for bugs
+
 # Common Questions
 ### Challenges
 ### Mistakes/Failures
@@ -55,7 +74,7 @@ from a json field representation into a separate table.
 
 # Code standards (patterns)
 
-Backend  
+Backend
 * Service Objects
 * Query Objects (filtering and sorting support)
 * Policy Objects (Pundit)
@@ -64,7 +83,7 @@ Backend
 * Serializers
 * Devise Authentication
 
-FrontEnd  
+FrontEnd
 * Pages organization structure following UI
 * Container-Component separation of duties
 * Hooks
@@ -74,7 +93,7 @@ FrontEnd
 * Selectors (read from the store)
 * Transforms (serialize+deserialize)
 * Material UI + Formik + Yup.validations
-* 
+*
 
 
 ```
@@ -119,4 +138,3 @@ When api returns it will call the appropiate transform with the result.
 Transform will take a json object and return a javascript object
 Middleware will save that object in the redux store
 After container has components read using a selector from the store and render data and attach action callbacks to UI events (onChange)
-
