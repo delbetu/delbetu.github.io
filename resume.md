@@ -43,14 +43,23 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
 <!-- # * and what the results were. -->
 <!-- # * Ideally, results "measurable" somehow. -->
 
-**Fullstack Software Engineer at [Occupier](https://www.occupier.com)
+**Lead Software Engineer at [Occupier](https://www.occupier.com)                                                       *Jul '22 - ...*{:.float-right}**
+- Ensure team success
+- Constant supporting other team members and mentor them
+- Provide strong code reviews
+- Meet with PM & UX to provide engineering feedback, assess feasibility and provide estimates
+- Propose technical-solutions to product-problems, build an execution plan and break it down into digestable tickets
+- Researched and proposed the incorporation of new technology (Actioncable)
+- Stimulated the team to collaborate with each other
+
+**Fullstack Software Engineer at [Occupier](https://www.occupier.com)                                              *May '21 - Jul '22*{:.float-right}**
 - Occupier bought me from Truelogic to make part of their team.
 - Kept with individual contributor role (same responsibilities explained on Truelogic section)
 - Helped with hiring process
 - Helped other team members when they were stuck or have questions
 - Responsible for Tech-Talks organization (motivate and help other devs to take the lead)
 
-**Fullstack Senior Software Engineer at [Truelogic](https://www.truelogicsoftware.com/)                           *Mar '20 - ...*{:.float-right}**
+**Fullstack Senior Software Engineer at [Truelogic](https://www.truelogicsoftware.com/)                           *Mar '20 - May '21*{:.float-right}**
 *[Occupier](https://www.occupier.com/)* <sub>SaaS product that helps companies administer their leases</sub>
 - individually built small to medium features end-to-end across the stack (accounting module from scratch)
 - Built a format independent long disclosures report using advance sql providing a modular solution.
@@ -87,10 +96,7 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
 
 **Web Developer at *[Wyeworks](https://www.wyeworks.com/)*                                     *Feb '14 - Feb '16*{:.float-right}**
 *[Flavorpill](http://www.flavorpill.com/)* <sub>Promoting events in NY</sub>
- - Participated on rebuilding app from scratch.
- - Integrate with AdSense.
- - Add Social login
- - Event Creation with rich editor
+ - Rebuilding app from scratch, AdSense, Social login, Event Creation with rich editor
  - Rails, Postgres, Javascript/jquery, Resque, Redis, Airbrake, Newrelic, Capistrano(Digital Ocean)
 
 *[Therapidia](https://www.therapydia.com/about/)* <sub>Referring patients between US clinics</sub>
@@ -100,10 +106,9 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
 
 
 **Junior and Mid Developer at *Mides* <sub>part-time</sub> *Jun '10 - Jan '14*{:.float-right}**
- - Develop a gmap-app for exploring and visualizing multiple government institution' data.
- - Implemented a different online surveys for needy people.
+ - Developed a gmap-app for exploring and visualizing multiple government institution' data
+ - Implemented a different online surveys
  - java, javascript, JPA, EJB, JSF
-<!--- Qflow -> -->
 
 
 **Programming Professor at *Bios*  <sub>part-time</sub>    *Mar '12 - Dec '14*{:.float-right}**
