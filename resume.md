@@ -131,7 +131,7 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
 * Redux 
 * Graphql 
 * Javascript           
-* Cypress
+* Cypress   
 {:.col}
 * Heroku 
 * Unix(Mac/Linux) 
