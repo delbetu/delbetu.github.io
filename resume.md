@@ -16,19 +16,19 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
  [Github](https://github.com/delbetu) &nbsp;&middot;&nbsp;
  [Linkedin](https://www.linkedin.com/in/marcos-bellucci-fratti-76b07918/?locale=en_US)
 
-## Summary
+### Summary
 ---
 - Software Engineer with 8+ years helping U.S. startups build/deliver great software products.
 - C.S. Degree, Strong OOP and Design patters knowledge.
 - Good English communication, collaboration and interpersonal skills.
 
 
-## Education
+### Education
 ---
 * **Bachelor of Science(B.S.), Computer Science**
  2005 - 2012 Universidad de la República
 
-## Experience
+### Experience
 ---
 
 <!-- # Writing Strong Bullets -->
@@ -104,8 +104,13 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
 **Programming Professor at *Bios*  <sub>part-time</sub>    *Mar '12 - Dec '14*{:.float-right}**
  - Teaching from basic C# OOP console apps to simple web app using ADO+ASP.NET.
 
-## Skills
+### Skillset
 ---
+<style>
+    table {
+        width: 100%;
+    }
+</style>
 
 | Good practices                | Laguages & Frameworks         | Tools                            |
 | ----------------------------- | ----------------------------- | -------------------------------- |
