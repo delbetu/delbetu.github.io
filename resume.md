@@ -18,13 +18,9 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
 
 ## Summary
 ---
-- Senior Software Engineer with 8+ years of experience.
-- Currently focusing on Rails + React, interested on other languages such as GO/Elixir/Rust.
-- University degree in Computer Science, Strong OOP and Design patters knowledge.
-- Able to deliver high quality code (unit testing, refactoring, design patterns).
-- Able to learn and adapt quickly to new technologies
+- Software Engineer with 8+ years helping U.S. startups build/deliver great software products.
+- C.S. Degree, Strong OOP and Design patters knowledge.
 - Good English communication, collaboration and interpersonal skills.
-- Experience working in Agile environment.
 
 
 ## Education
@@ -44,13 +40,11 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
 <!-- # * Ideally, results "measurable" somehow. -->
 
 **Lead Software Engineer at [Occupier](https://www.occupier.com)                                                       *Jul '22 - ...*{:.float-right}**
-- Ensure team success
-- Constant supporting other team members and mentor them
-- Provide strong code reviews
-- Meet with PM & UX to provide engineering feedback, assess feasibility and provide estimates
 - Propose technical-solutions to product-problems, build an execution plan and break it down into digestable tickets
+- Meet with PM & UX to provide engineering feedback, assess feasibility and provide estimates
 - Researched and proposed the incorporation of new technology (Actioncable)
 - Stimulated the team to collaborate with each other
+- Constant supporting other team members and mentoring them
 
 **Fullstack Software Engineer at [Occupier](https://www.occupier.com)                                              *May '21 - Jul '22*{:.float-right}**
 - Occupier bought me from Truelogic to make part of their team.
@@ -95,6 +89,7 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
 <div class='pagebreak'></div>
 
 **Web Developer at *[Wyeworks](https://www.wyeworks.com/)*                                     *Feb '14 - Feb '16*{:.float-right}**
+<!--
 *[Flavorpill](http://www.flavorpill.com/)* <sub>Promoting events in NY</sub>
  - Rebuilding app from scratch, AdSense, Social login, Event Creation with rich editor
  - Rails, Postgres, Javascript/jquery, Resque, Redis, Airbrake, Newrelic, Capistrano(Digital Ocean)
@@ -103,13 +98,14 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
  - Diagnose/fix page-load issues by minifying/compressing assets and join images(css-sprite).
  - Fix/Re-Implement clinic statistics dashboard with multiple charts.
  - Rails, AWS, Mysql, CanCan Devise, NewRelic, Redis, Sidekiq
-
+-->
 
 **Junior and Mid Developer at *Mides* <sub>part-time</sub> *Jun '10 - Jan '14*{:.float-right}**
+<!--
  - Developed a gmap-app for exploring and visualizing multiple government institution' data
  - Implemented a different online surveys
  - java, javascript, JPA, EJB, JSF
-
+-->
 
 **Programming Professor at *Bios*  <sub>part-time</sub>    *Mar '12 - Dec '14*{:.float-right}**
  - Teaching from basic C# OOP console apps to simple web app using ADO+ASP.NET.
