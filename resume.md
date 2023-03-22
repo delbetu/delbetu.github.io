@@ -113,19 +113,17 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
     }
 </style>
 
-| Good practices                | Laguages & Frameworks         | Tools                            |
-| ----------------------------- | ----------------------------- | -------------------------------- |
-| OOP                           | SQL                           | Heroku                           |
-| TDD                           | Ruby                          | Unix(Mac/Linux)                  |
-| Refactoring                   | Rails                         | HTML / CSS                       |
-| Design Patterns               | Rspec                         | Postgres                         |
-| Agile                         | React                         | Jenkins                          |
-| Scrum                         | React testing library         | Docker                           |
-| Unit Testing                  | React Query                   | Git                              |
-|                               | Redux                         | Redis                            |
-|                               | Graphql                       |                                  |
-|                               | Javascript                    |                                  |
-|                               | Cypress                       |                                  |
+| Best practices    | Laguages     | Libs & Frameworks | Tools                                 |
+| ----------------- | ------------ | ----------------- | ------------------------------------- |
+| OOP               | SQL          | Rails             | Heroku                                |
+| TDD               | Ruby         | Rspec             | Unix(Mac/Linux)                       |
+| Refactoring       | Typescript   | Postgres          | Git                                   |
+| Design Patterns   | Javascript   | React             | Redis                                 |
+| Agile             | Java         | RTL               | Jenkins                               |
+| Scrum             | C#           | React Query       | Docker                                |
+| Unit Testing      | HTML / CSS   | Redux             |                                       |
+|                   |              | Graphql           |                                       |
+|                   |              | Cypress           |                                       |
 
 
 
