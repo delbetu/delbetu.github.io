@@ -74,6 +74,8 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
  - Helped with newcomers on-boarding by having 1-1 meetings and preparing documentation for them.
  - Rails, Postgres, Sidekiq, Heroku, React, Jwt, Cloudinary, S3, Swagger, Jenkins
 
+<div class='pagebreak'></div>
+
 **Software Engineer at *[Tarmac](https://tarmac.io/)*                               *Mar '16 - Feb '17*{:.float-right}**
 <!-- #   *[Sportnging](https://www.sportsengine.com/)* <sub>American Junior Leagues administration software</sub> -->
 <!-- #   - Migrate legacy web pages HTML/Javascript to Angular. -->
@@ -84,8 +86,6 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
 <!-- #   - Create a dashboard showing summarised data.  -->
 <!-- #   - Automate feature tests and fix bugs. -->
 <!-- #   - Rails 3 -->
-
-<div class='pagebreak'></div>
 
 **Web Developer at *[Wyeworks](https://www.wyeworks.com/)*                                     *Feb '14 - Feb '16*{:.float-right}**
 <!-- #   *[Flavorpill](http://www.flavorpill.com/)* <sub>Promoting events in NY</sub> -->
@@ -106,6 +106,7 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
 
 ### Skillset
 ---
+
 <style>
     table {
         width: 100%;
@@ -130,7 +131,7 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
 
 <br/>
 
-## References
+### References
 ---
 
 **Vaidehi Kulkarni**
