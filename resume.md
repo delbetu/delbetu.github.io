@@ -90,6 +90,7 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
 
 **Web Developer at *[Wyeworks](https://www.wyeworks.com/)*                                     *Feb '14 - Feb '16*{:.float-right}**
 <!--
+
 *[Flavorpill](http://www.flavorpill.com/)* <sub>Promoting events in NY</sub>
  - Rebuilding app from scratch, AdSense, Social login, Event Creation with rich editor
  - Rails, Postgres, Javascript/jquery, Resque, Redis, Airbrake, Newrelic, Capistrano(Digital Ocean)
@@ -98,13 +99,16 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
  - Diagnose/fix page-load issues by minifying/compressing assets and join images(css-sprite).
  - Fix/Re-Implement clinic statistics dashboard with multiple charts.
  - Rails, AWS, Mysql, CanCan Devise, NewRelic, Redis, Sidekiq
+
 -->
 
 **Junior and Mid Developer at *Mides* <sub>part-time</sub> *Jun '10 - Jan '14*{:.float-right}**
 <!--
+
  - Developed a gmap-app for exploring and visualizing multiple government institution' data
  - Implemented a different online surveys
  - java, javascript, JPA, EJB, JSF
+
 -->
 
 **Programming Professor at *Bios*  <sub>part-time</sub>    *Mar '12 - Dec '14*{:.float-right}**
