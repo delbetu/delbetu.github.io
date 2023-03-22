@@ -75,24 +75,23 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
  - Rails, Postgres, Sidekiq, Heroku, React, Jwt, Cloudinary, S3, Swagger, Jenkins
 
 **Software Engineer at *[Tarmac](https://tarmac.io/)*                               *Mar '16 - Feb '17*{:.float-right}**
-*[Sportnging](https://www.sportsengine.com/)* <sub>American Junior Leagues administration software</sub>
+<!-- #   *[Sportnging](https://www.sportsengine.com/)* <sub>American Junior Leagues administration software</sub> -->
 <!-- #   - Migrate legacy web pages HTML/Javascript to Angular. -->
 <!-- #   - Identify bottlenecks and mitigate them by resolving N+1 queries, adding pagination, unnecessary queries -->
- - Rails 3, Angular 1
-
-*[ReferFriends](#)* <sub>Refer employees and get rewarded</sub>
-<!-- #   - Create MVP Rails app for referring candidates.
-<!-- #   - Create a dashboard showing summarised data.
-<!-- #   - Automate feature tests and fix bugs.
- - Rails 3
+<!-- #   - Rails 3, Angular 1 -->
+<!-- #   *[ReferFriends](#)* <sub>Refer employees and get rewarded</sub>  -->
+<!-- #   - Create MVP Rails app for referring candidates.  -->
+<!-- #   - Create a dashboard showing summarised data.  -->
+<!-- #   - Automate feature tests and fix bugs. -->
+<!-- #   - Rails 3 -->
 
 <div class='pagebreak'></div>
 
 **Web Developer at *[Wyeworks](https://www.wyeworks.com/)*                                     *Feb '14 - Feb '16*{:.float-right}**
-*[Flavorpill](http://www.flavorpill.com/)* <sub>Promoting events in NY</sub>
+<!-- #   *[Flavorpill](http://www.flavorpill.com/)* <sub>Promoting events in NY</sub> -->
 <!-- #   - Rebuilding app from scratch, AdSense, Social login, Event Creation with rich editor -->
 <!-- #   - Rails, Postgres, Javascript/jquery, Resque, Redis, Airbrake, Newrelic, Capistrano(Digital Ocean) -->
-*[Therapidia](https://www.therapydia.com/about/)* <sub>Referring patients between US clinics</sub>
+<!-- #   *[Therapidia](https://www.therapydia.com/about/)* <sub>Referring patients between US clinics</sub> -->
 <!-- #   - Diagnose/fix page-load issues by minifying/compressing assets and join images(css-sprite). -->
 <!-- #   - Fix/Re-Implement clinic statistics dashboard with multiple charts. -->
 <!-- #   - Rails, AWS, Mysql, CanCan Devise, NewRelic, Redis, Sidekiq -->
