@@ -14,7 +14,7 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
 {:.no-print}
  [Portfolio](https://delbetu.github.io) &nbsp;&middot;&nbsp;
  [Github](https://github.com/delbetu) &nbsp;&middot;&nbsp;
- [Linkedin](https://www.linkedin.com/in/marcos-bellucci-fratti-76b07918/?locale=en_US)
+ [Linkedin](https://www.linkedin.com/in/marcos-bellucci/?locale=en_US)
 
 ### Summary
 ---
