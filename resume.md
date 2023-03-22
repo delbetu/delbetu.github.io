@@ -107,32 +107,20 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
 ## Skills
 ---
 
-* OOP 
-* TDD 
-* Refactoring 
-* Design Patterns 
-* Agile 
-* Scrum 
-* Unit Testing               
-{:.col}
-* Git 
-* Ruby 
-* Rails 
-* Rspec
-* React 
-* React testing library 
-* React Query 
-* Redux 
-* Graphql 
-* Javascript           
-* Cypress   
-{:.col}
-* Heroku 
-* Unix(Mac/Linux) 
-* HTML / CSS 
-* Postgres/SQL        
-* Jenkins 
-* Docker
+| Good practices                | Laguages & Frameworks         | Tools                            |
+| ----------------------------- | ----------------------------- | -------------------------------- |
+| OOP                           | SQL                           | Heroku                           |
+| TDD                           | Ruby                          | Unix(Mac/Linux)                  |
+| Refactoring                   | Rails                         | HTML / CSS                       |
+| Design Patterns               | Rspec                         | Postgres                         |
+| Agile                         | React                         | Jenkins                          |
+| Scrum                         | React testing library         | Docker                           |
+| Unit Testing                  | React Query                   | Git                              |
+|                               | Redux                         | Redis                            |
+|                               | Graphql                       |                                  |
+|                               | Javascript                    |                                  |
+|                               | Cypress                       |                                  |
+
 
 
 <br/>
