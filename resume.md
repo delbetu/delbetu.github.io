@@ -76,7 +76,7 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
 
 
 
-**Software Engineer at *[Tarmac](https://tarmac.io/)*                               *Mar '16 - Feb '17*{:.float-right}**
+*Software Engineer at *[Tarmac](https://tarmac.io/)*                               *Mar '16 - Feb '17*{:.float-right}*
 <!-- #   *[Sportnging](https://www.sportsengine.com/)* <sub>American Junior Leagues administration software</sub> -->
 <!-- #   - Migrate legacy web pages HTML/Javascript to Angular. -->
 <!-- #   - Identify bottlenecks and mitigate them by resolving N+1 queries, adding pagination, unnecessary queries -->
