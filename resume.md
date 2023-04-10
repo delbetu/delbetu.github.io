@@ -4,7 +4,7 @@ title: Resume
 
 ---
 
-# Marcos Bellucci ![photo](https://s.gravatar.com/avatar/b74aaa4709c3ce936ae609aacbe3b3aa?s=80){:.float-right.gravatar}
+# Marcos Bellucci
 _Montevideo, UY GMT-3_   _&#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com_{:.float-right}
 [:printer:](){:.no-print.print-button onclick="window.print();"}
 
