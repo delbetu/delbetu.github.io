@@ -102,7 +102,7 @@ Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
 <!-- #  - java, javascript, JPA, EJB, JSF -->
 
 **Programming Professor at *Bios*  <sub>part-time</sub>    *Mar '12 - Dec '14*{:.float-right}**
- - Teaching from basic C# OOP console apps to simple web app using ADO+ASP.NET.
+<!-- # - Teaching from basic C# OOP console apps to simple web app using ADO+ASP.NET. -->
 
 
 <div class='pagebreak'></div>
