@@ -8,20 +8,12 @@ title: Resume
 _Montevideo, UY GMT-3_   _&#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com_{:.float-right}
 [:printer:](){:.no-print.print-button onclick="window.print();"}
 
-{:.only-print.print-footer}
-Marcos Bellucci &#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com
-
-{:.no-print}
  [Portfolio](https://delbetu.github.io) &nbsp;&middot;&nbsp;
  [Github](https://github.com/delbetu) &nbsp;&middot;&nbsp;
  [Linkedin](https://www.linkedin.com/in/marcos-bellucci/?locale=en_US)
 
-### Summary
----
-- Software Engineer with 8+ years helping U.S. startups build/deliver great software products.
-- C.S. Degree, Strong OOP and Design patters knowledge.
-- Good English communication, collaboration and interpersonal skills.
-
+Software Engineer with Computer Science background.  
+8+ years helping U.S. startups deliver high quality, performant and correct software.  
 
 ### Education
 ---
