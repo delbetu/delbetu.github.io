@@ -12,8 +12,12 @@ _Montevideo, UY GMT-3_   _&#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com_{:
  [Github](https://github.com/delbetu) &nbsp;&middot;&nbsp;
  [Linkedin](https://www.linkedin.com/in/marcos-bellucci/?locale=en_US)
 
+### Summary
+---
 Software Engineer with Computer Science background.  
-8+ years helping U.S. startups deliver high quality, performant and correct software.  
+8+ years working collaboratively for U.S. startups to deliver high quality, performant and correct software.  
+Current Stack: `Rails` + `React`.  
+Also interested in: `Elixir`, `Rust`, `DDD`.  
 
 ### Education
 ---
