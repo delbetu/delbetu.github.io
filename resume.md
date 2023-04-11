@@ -66,9 +66,9 @@ Software Engineer with Computer Science background.
  - Helped with newcomers on-boarding by having 1-1 meetings and preparing documentation for them.
  - Rails, Postgres, Sidekiq, Heroku, React, Jwt, Cloudinary, S3, Swagger, Jenkins
 
+#### Previous Experience
 
-
-*Software Engineer at [Tarmac](https://tarmac.io/)                               *Mar '16 - Feb '17*{:.float-right}*
+Software Engineer at [Tarmac](https://tarmac.io/)                               Mar '16 - Feb '17{:.float-right}
 <!-- #   *[Sportnging](https://www.sportsengine.com/)* <sub>American Junior Leagues administration software</sub> -->
 <!-- #   - Migrate legacy web pages HTML/Javascript to Angular. -->
 <!-- #   - Identify bottlenecks and mitigate them by resolving N+1 queries, adding pagination, unnecessary queries -->
@@ -79,7 +79,7 @@ Software Engineer with Computer Science background.
 <!-- #   - Automate feature tests and fix bugs. -->
 <!-- #   - Rails 3 -->
 
-*Web Developer at [Wyeworks](https://www.wyeworks.com/)                                     *Feb '14 - Feb '16*{:.float-right}*
+Web Developer at [Wyeworks](https://www.wyeworks.com/)                                     Feb '14 - Feb '16{:.float-right}
 <!-- #   *[Flavorpill](http://www.flavorpill.com/)* <sub>Promoting events in NY</sub> -->
 <!-- #   - Rebuilding app from scratch, AdSense, Social login, Event Creation with rich editor -->
 <!-- #   - Rails, Postgres, Javascript/jquery, Resque, Redis, Airbrake, Newrelic, Capistrano(Digital Ocean) -->
@@ -88,12 +88,12 @@ Software Engineer with Computer Science background.
 <!-- #   - Fix/Re-Implement clinic statistics dashboard with multiple charts. -->
 <!-- #   - Rails, AWS, Mysql, CanCan Devise, NewRelic, Redis, Sidekiq -->
 
-*Junior and Mid Developer at Mides <sub>part-time</sub> *Jun '10 - Jan '14*{:.float-right}*
+Junior and Mid Developer at Mides <sub>part-time</sub> Jun '10 - Jan '14{:.float-right}
 <!-- #  - Developed a gmap-app for exploring and visualizing multiple government institution' data -->
 <!-- #  - Implemented a different online surveys -->
 <!-- #  - java, javascript, JPA, EJB, JSF -->
 
-*Programming Professor at Bios  <sub>part-time</sub>    *Mar '12 - Dec '14*{:.float-right}*
+Programming Professor at Bios  <sub>part-time</sub>    Mar '12 - Dec '14{:.float-right}
 <!-- # - Teaching from basic C# OOP console apps to simple web app using ADO+ASP.NET. -->
 
 
