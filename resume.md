@@ -66,6 +66,10 @@ Software Engineer with Computer Science background.
  - Helped with newcomers on-boarding by having 1-1 meetings and preparing documentation for them.
  - Rails, Postgres, Sidekiq, Heroku, React, Jwt, Cloudinary, S3, Swagger, Jenkins
 
+
+<div class='pagebreak'></div>
+
+
 #### Previous Experience
 
 Software Engineer at [Tarmac](https://tarmac.io/)                               Mar '16 - Feb '17{:.float-right}
@@ -96,8 +100,6 @@ Junior and Mid Developer at Mides <sub>part-time</sub> Jun '10 - Jan '14{:.float
 Programming Professor at Bios  <sub>part-time</sub>    Mar '12 - Dec '14{:.float-right}
 <!-- # - Teaching from basic C# OOP console apps to simple web app using ADO+ASP.NET. -->
 
-
-<div class='pagebreak'></div>
 
 ### Skillset
 ---
