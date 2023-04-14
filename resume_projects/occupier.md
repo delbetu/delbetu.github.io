@@ -50,7 +50,7 @@ from a json field representation into a separate table).
 
 # Story
 
-### Implemented Icentives.
+## Icentives
 Took a few weeks to accomplish.
 Requirements were very vague described.
 Took initiative and reach out people with questions.
@@ -71,6 +71,20 @@ Monitor production release and check for bugs
 ### Leadership
 ### Conflicts
 ### What You'd Do Differently
+
+## Background Exports
+Problem: Exports consuming too much memory from our main server node.
+Large exports were taking long time to process and giving timeouts errors for some big customers.
+Solution: Tansition all existing exports to background exports.
+Export runs in background
+File is uploaded to S3 and a temporary link is created.
+An email is sent to the requester user with that link.
+File is not attached to avoid emails from being spammed.
+
+### Challenge
+The transition of each export should be easy to implement.
+Only one Graphql endpoint receiving the name of the export as parameter 
+... TODO 
 
 # Code standards (patterns)
 
