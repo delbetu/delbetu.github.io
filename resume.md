@@ -8,16 +8,20 @@ title: Resume
 _Montevideo, UY GMT-3_   _&#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com_{:.float-right}
 [:printer:](){:.no-print.print-button onclick="window.print();"}
 
- [Portfolio](https://delbetu.github.io) &nbsp;&middot;&nbsp;
- [Github](https://github.com/delbetu) &nbsp;&middot;&nbsp;
- [Linkedin](https://www.linkedin.com/in/marcos-bellucci/?locale=en_US)
+ Portfolio: [delbetu.github.io](https://delbetu.github.io) &nbsp;&middot;&nbsp;
+ Github: [github.com/delbetu](https://github.com/delbetu) &nbsp;&middot;&nbsp;
+ Linkedin: [www.linkedin.com/in/marcos-bellucci](https://www.linkedin.com/in/marcos-bellucci/?locale=en_US)
 
 ### Summary
 ---
+<!-- This can be tailored to a specific job description -->
+<!-- Highligt the most applicable skills that I can offer and match the description -->
+<!-- Most common skills are: communication & collaboration, Proficency with Rails & Javascript, DB Manangement, Agile Familiarity, Testing Frameworks -->
+
 Software Engineer with Computer Science background.  
-8+ years working collaboratively for U.S. startups to deliver high quality, performant and correct software.  
-Current Stack: `Rails` + `React`.  
-Also interested in: `Elixir`, `Rust`, `DDD`.  
+10+ years working collaboratively for U.S. startups to deliver high quality, tested, performant and correct software using agile development processes.  
+Proficient with: `Rails` + `React`.  
+Interested in: `Elixir`, `Rust`, `DDD`.  
 
 ### Education
 ---
