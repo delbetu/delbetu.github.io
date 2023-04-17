@@ -35,7 +35,8 @@ Interested in: `Elixir`, `Rust`, `DDD`.
 <!-- # some bullet points to talk about the responsibilities of the role -->
 <!-- # other bullet points to talk about accomplishements -->
 <!-- # accomplishments approach: "Accomplished X by implementing Y which led to z" -->
-<!-- # accomplishments approach: "Final compnay or product benefit by acting, performing... (some action)" -->
+<!-- # accomplishments approach: "Final company or product benefit by acting, performing... (some action)" -->
+<!-- # Key Contributions can be expresed in the same format" -->
 <!-- # "Reduced object rendering time by 75% by implementing distributed caching, leading to a 10% reduction in log-in time" -->
 <!-- # * what you did -->
 <!-- # * how you did it, -->
@@ -48,13 +49,15 @@ Interested in: `Elixir`, `Rust`, `DDD`.
 - Researched and proposed the incorporation of new technology (Actioncable)
 - Stimulated the team to collaborate with each other
 - Constant supporting other team members and mentoring them
+- Reduced the amount of memory consumed by the main server node by moving the exports to background jobs and notifying by email.
 
 **Fullstack Software Engineer at [Occupier](https://www.occupier.com)                                              *May '21 - Jul '22*{:.float-right}**
 - Occupier bought me from Truelogic to make part of their team.
 - Kept with individual contributor role (same responsibilities explained on Truelogic section)
-- Helped with hiring process
+- Recruited candidates from my personal network, 4 of them were hired, 2 Junior Devs, 1 Senior Dev, 1 Senior UI/UX
 - Helped other team members when they were stuck or have questions
-- Responsible for Tech-Talks organization (motivate and help other devs to take the lead)
+- Took the lead on Tech-Talks organization and enouraged other devs to create and present their own talks
+- 
 
 **Fullstack Senior Software Engineer at [Truelogic](https://www.truelogicsoftware.com/)                           *Mar '20 - May '21*{:.float-right}**
 *[Occupier](https://www.occupier.com/)* <sub>SaaS product that helps companies administer their leases</sub>
