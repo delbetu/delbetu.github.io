@@ -60,7 +60,7 @@ Interested in: `Elixir`, `Rust`, `DDD`.
 - Took the lead on Tech-Talks organization and enouraged other devs to create and present their own talks
 
 **Fullstack Senior Software Engineer at [Truelogic](https://www.truelogicsoftware.com/)                           *Mar '20 - May '21*{:.float-right}**
-*[Occupier](https://www.occupier.com/)* <sub>SaaS product that helps companies administer their leases</sub>
+*[Occupier](https://www.occupier.com/)* <sub>SaaS product focused on Commercial Real Estate Leasing</sub>
 - Individually built small to medium features end-to-end across the stack (accounting module from scratch)
 - Built a format independent long disclosures report using advance sql providing a modular solution
 - Big Refactoring: changed a db json field implementation into a separate table
