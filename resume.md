@@ -46,37 +46,38 @@ Interested in: `Elixir`, `Rust`, `DDD`.
 **Lead Software Engineer at [Occupier](https://www.occupier.com)                                                       *Jul '22 - ...*{:.float-right}**
 - Propose technical-solutions to product-problems, build an execution plan and break it down into digestable tickets
 - Meet with PM & UX to provide engineering feedback, assess feasibility and provide estimates
-- Researched and proposed the incorporation of new technology (Actioncable) by creating and giving a tech talk about it.
-- Increased team productivity by ramping up required knowledge for other team members and encouraging them to incorporate TDD and pairing.
-- Reduced the amount of memory consumed by the main server node by moving the exports to background jobs and notifying by email.
+- Researched and proposed the incorporation of new technology (Actioncable) by giving a tech talk about it
+- Increased team productivity by ramping up required knowledge for other team members and encourage them to incorporate TDD and pairing
+- Reduced the amount of memory consumed by the main server node by moving the exports to background jobs and notifying by email
+- Improved Notifications Usability by extending its customization options
+- Increased customer happiness by extending existing reports (rent variance & obligations) providing new filtering options and better data granularity
 
 **Fullstack Software Engineer at [Occupier](https://www.occupier.com)                                              *May '21 - Jul '22*{:.float-right}**
-- Occupier bought me from Truelogic to make part of their team.
+- Occupier bought me from Truelogic to make part of their team
 - Kept with individual contributor role (same responsibilities explained on Truelogic section)
-- Recruited candidates from my personal network, 4 of them were hired, 2 Junior Devs, 1 Senior Dev, 1 Senior UI/UX
-- Helped other team members when they were stuck or have questions
+- Recruited candidates from my personal network, 4 of them were hired (2 Junior Devs, 1 Senior Dev, 1 Senior UI/UX)
+- Mentored and supported other team members
 - Took the lead on Tech-Talks organization and enouraged other devs to create and present their own talks
-- 
 
 **Fullstack Senior Software Engineer at [Truelogic](https://www.truelogicsoftware.com/)                           *Mar '20 - May '21*{:.float-right}**
 *[Occupier](https://www.occupier.com/)* <sub>SaaS product that helps companies administer their leases</sub>
-- individually built small to medium features end-to-end across the stack (accounting module from scratch)
-- Built a format independent long disclosures report using advance sql providing a modular solution.
-- Big Refactoring: changed a db json field implementation into a separate table.
+- Individually built small to medium features end-to-end across the stack (accounting module from scratch)
+- Built a format independent long disclosures report using advance sql providing a modular solution
+- Big Refactoring: changed a db json field implementation into a separate table
 - Pairing, Code Review, QA, and mentor newcomers
 - Understand problems, discuss and propose solutions
 - Present the work done on weekly meeting
-- Restful APIs, Advance SQL, Object-Oriented Design, Authorization, Serialization.
+- Restful APIs, Advance SQL, Object-Oriented Design, Authorization, Serialization
 - React, Redux, Rails, Typescript, Ruby, Heroku, Postgres
 
 
 **Senior Software Engineer at [Oktana](https://www.oktana.com/)                        *Feb '17 - Feb '20*{:.float-right}**
 *[Trailhead](https://trailhead.salesforce.com/en/home)*  <sub>e-learning platform powered by Salesforce</sub>
- - Desig/implement new distributed content processing system.
- - Implement API endpoints for Mobile app based on OData protocol.
- - Enhance existing solution (API and Web projects) for multi-tenancy support.
- - Maintain a legacy system that processes and publish content. Reducing its total execution time at the half.
- - Helped with newcomers on-boarding by having 1-1 meetings and preparing documentation for them.
+ - Desig/implement new distributed content processing system
+ - Implement API endpoints for Mobile app based on OData protocol
+ - Enhance existing solution (API and Web projects) for multi-tenancy support
+ - Maintain a legacy system that processes and publish content. Reducing its total execution time at the half
+ - Helped with newcomers on-boarding by having 1-1 meetings and preparing documentation for them
  - Rails, Postgres, Sidekiq, Heroku, React, Jwt, Cloudinary, S3, Swagger, Jenkins
 
 
