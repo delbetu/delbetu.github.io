@@ -46,9 +46,8 @@ Interested in: `Elixir`, `Rust`, `DDD`.
 **Lead Software Engineer at [Occupier](https://www.occupier.com)                                                       *Jul '22 - ...*{:.float-right}**
 - Propose technical-solutions to product-problems, build an execution plan and break it down into digestable tickets
 - Meet with PM & UX to provide engineering feedback, assess feasibility and provide estimates
-- Researched and proposed the incorporation of new technology (Actioncable)
-- Stimulated the team to collaborate with each other
-- Constant supporting other team members and mentoring them
+- Researched and proposed the incorporation of new technology (Actioncable) by creating and giving a tech talk about it.
+- Increased team productivity by ramping up required knowledge for other team members and encouraging them to incorporate TDD and pairing.
 - Reduced the amount of memory consumed by the main server node by moving the exports to background jobs and notifying by email.
 
 **Fullstack Software Engineer at [Occupier](https://www.occupier.com)                                              *May '21 - Jul '22*{:.float-right}**
