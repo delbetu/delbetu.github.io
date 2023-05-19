@@ -43,7 +43,66 @@ Postgres, Redis, Heroku
 
 # Story
 
-## 
+## Variance Report - Expense Type Breakdown
+
+### Problem
+Today, the Variance Report contains the sum total of Base Rent and every Additional Expense. We call this Total Rent. However, users don't want to see the difference in Total Rent between January and February, they want to see any differences in Base Rent, CAM, Utilities, etc...
+Therefore, we should include every expense type in the variance report.
+
+### Solution
+Show variances by expense type
+
+### Results
+Project was released to production, some bugs were detected and fixed after that.
+
+## Rent obligations report
+### Problem
+Customers weren't able to filter the report to met their expectations, making this feature not very usable for them since it was producing docens of columns (one per month).
+
+### Solution
+Enhance report to support filter by many attributes, in particular the filtering for expense type was a special case.
+Filtering by expense type and period ranges were where the difficulty relied since it wasn't standard code.
+
+### Results
+The project was investigated, designed, released to production, got feedback and issues were solved.
+
+### What went wrong?
+We didn't release behind feature flag so at some point we offered functionality that wasn't worked as expected.
+
+
+
+## Notifications (Critical Dates + Portfolio Digest)
+### Problem
+Portfolio digest was providing not very useful information for the user, and missing other important information.
+Critical dates weren't much useful because it lacks of customization
+
+### Solution
+Highlight important information on portfolio digest.
+Make portfolio digest content customizable (which content should include and when should be included).
+Make critical dates notification customizable (when start sending and frequency).
+
+### Results
+Notifications was delivered after initially estimated.
+People is using it?
+No major issues were found after the release.
+Other problems were solved on its way. We detected that alerts recreation were not working properly in the past and we fixed it.
+QA process was good.
+
+
+
+## Background Exports
+Problem: Exports consuming too much memory from our main server node.
+Large exports were taking long time to process and giving timeouts errors for some big customers.
+Solution: Tansition all existing exports to background exports.
+Export runs in background
+File is uploaded to S3 and a temporary link is created.
+An email is sent to the requester user with that link.
+File is not attached to avoid emails from being spammed.
+
+### Challenges
+The transition of each export should be easy to implement.
+Only one Graphql endpoint receiving the name of the export as parameter 
+... TODO 
 
 ## Icentives
 Took a few weeks to accomplish.
@@ -67,19 +126,7 @@ Monitor production release and check for bugs
 ### Conflicts
 ### What You'd Do Differently
 
-## Background Exports
-Problem: Exports consuming too much memory from our main server node.
-Large exports were taking long time to process and giving timeouts errors for some big customers.
-Solution: Tansition all existing exports to background exports.
-Export runs in background
-File is uploaded to S3 and a temporary link is created.
-An email is sent to the requester user with that link.
-File is not attached to avoid emails from being spammed.
 
-### Challenge
-The transition of each export should be easy to implement.
-Only one Graphql endpoint receiving the name of the export as parameter 
-... TODO 
 
 # Code standards (patterns)
 
