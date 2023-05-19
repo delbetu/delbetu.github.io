@@ -11,10 +11,10 @@ Generate general ledgers and export data to be included in accountant software.
 * Lease Admin
 * Rent Rules
 * Percentage Rent is when tenant is to obligated to pay a percentage of their sales revenue, but only when passign a threshold.
-* Free Rent
-* Escalations
-* Additional Rent
-* Incentives: when landlord provides some discount as incentive for the tenant to sign the contract.
+* Free Rent: Months that not need to be payed
+* Escalations: Increases over time (usually due to inflation adjustment) e.g 5% yearly
+* Additional Rent: Rent is divided into Base + Additional. Additional involves electricity, insurance, utilities and other charges that tenant must pay
+* Incentives: when landlord provides some discount as incentive for the tenant to sign the contract
 
 * Broker Lease
 Broker can help to find a lease and negotiate its price along with compare them and track their lease status.
@@ -33,26 +33,13 @@ from a json field representation into a separate table).
 * Include the review-approval process where an accountant works as part of a team that review each other's work
 
 # key_technologies
- React
- Redux
- Redux Middleware
- Redux Thunk
- Redux Api Middleware
- React Router
- Material UI
- Formik
- Lodash
- Webpack
- Jest + Cypress
- Typescript
+ * React:
+   ...Redux,Redux Middleware,Redux Thunk,Redux Api Middleware,React Router,Material UI,Formik,Lodash,Webpack,Jest + Cypress,Typescript
 
-* Rails
-* Fast JSON API
-* Pundit Auth
-* Administrate (Admin Dashboard)
+* Rails:
+  ...Fast JSON API,Pundit Auth,Administrate (Admin Dashboard)
 
-* Postgres
-* Heroku
+Postgres, Redis, Heroku
 
 # Story
 
