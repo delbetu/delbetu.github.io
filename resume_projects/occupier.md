@@ -6,10 +6,11 @@ Lease Accounting
 # Functionality
 * Accounting  
   Double Entry Bookkeping (Every Entry to an account requires a corresponding opposite to another account) (credit & debit)
+  Assets(company owns) = Liabilities(company owes) + Equity(company net worth)
   Ensure compilance with lease accounting standards ASC842 and IFRS16
   Calculating lease payments: Autogenerating lease transactions by Measuring leases
   Automatic Recording of books' entries: Journal Entries
-  Configuring their chart of accounts
+  Chart of accounts: List Accounts used to track transactions are classified (have type of transaction asset liability revenue expense) and have its own balance.
   Preparing financial statements: Journal Entries, Accounts(credits&debits) to explain how money flows
   Provide analysis and insights: Trail Balance & Disclosures Reports to help strategic decision making
 
