@@ -2,6 +2,8 @@
 - [X] Join AboutMe and index page
 - [X] Remove Contact Page
 - [X] Rename Projects for Portfolio
-- [ ] Add OSS contributions to 
-- [ ] Remove stars and put icons along with years of experience on that tech
+- [X] Add OSS contributions to
+- [X] Remove stars and put icons along with years of experience on that tech
 - [ ] Add blog post
+- [ ] Move technical writing(blog posts) linking to dev.to within portfolio.
+- [ ] Mix open source contributions within portfolio
