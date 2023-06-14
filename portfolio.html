@@ -6,88 +6,118 @@ title: Portfolio
 <style>
   .card {
     max-width: 25vw;
-    max-height: 80vh;
+    max-height: 50vh;
   }
   .card img {
-    max-height: 30vh;
+    max-height: 20vh;
   }
   .card-body p {
     font-size: 1.5vh;
   }
+  .card-body {
+    overflow: auto;
+  }
 </style>
 
-<div class='card-deck'>
-  <div class='card'>
-    <img src='/assets/images/hexa.png' class='card-img-top' alt='supemarket-rules-screenshot'>
-    <div class='card-body'>
-      <b>Oct 2020</b>
-      <h5 class='card-title'> Hexa (Ruby, Rack, Sequel, Graphql)</h5>
-      <p class='card-text'>
-      Backend Api Template Project.<br/>
-      A set of tools organized on an <a href="https://en.wikipedia.org/wiki/Hexagonal_architecture_(software)">hexagonal-architecture</a> which I've crated as an alternative to Rails
-      </p>
-    </div>
+<div class='container'>
+  <div class='row'>
+    <div class='card-deck'>
+      <div class='card'>
+        <img src='/assets/images/hexa.png' class='card-img-top' alt='supemarket-rules-screenshot'>
+        <div class='card-body'>
+          <b>Oct 2020</b>
+          <h5 class='card-title'> Hexa (Ruby, Rack, Sequel, Graphql)</h5>
+          <p class='card-text'>
+          Backend Api Template Project.<br/>
+          A set of tools organized on an <a href="https://en.wikipedia.org/wiki/Hexagonal_architecture_(software)">hexagonal-architecture</a> which I've crated as an alternative to Rails
+          </p>
+        </div>
 
-    <div class='card-footer'>
-      <a href='https://github.com/delbetu/hexa' class='btn btn-primary' role='button'>Github</a>
+        <div class='card-footer'>
+          <a href='https://github.com/delbetu/hexa' class='btn btn-primary' role='button'>Github</a>
+        </div>
+      </div>
+
+
+      <div class='card'>
+        <img src='/assets/images/supermarket-rules.png' class='card-img-top' alt='supemarket-rules-screenshot'>
+        <div class='card-body'>
+          <b>Feb 2020</b>
+          <h5 class='card-title'> Supermarket Discount Rules (Rspec/Ruby)</h5>
+          <p class='card-text'>
+          This project implements a flexible solution to the problem of offering multiple discount rules on a supermarket.
+          If you follow the commits you can see how it was built.
+          In particular you can see the usage of `TDD`, `Refactoring` and `Design-Patterns` applied.
+          </p>
+        </div>
+
+        <div class='card-footer'>
+          <a href='https://github.com/delbetu/refactoring-to-chain-of-responsibility' class='btn btn-primary' role='button'>Github</a>
+        </div>
+      </div>
+
+      <div class='card'>
+        <img src='/assets/images/todo-app.png' class='card-img-top' alt='todo-app-screenshot'>
+        <div class='card-body'>
+          <b>Oct 2019</b>
+          <h5 class='card-title'> TODO App (BackboneJs + Rails)</h5>
+          <p class='card-text'>
+          This application is composed of two different projects backend and fronted.<br>
+          Backend is a Rails 4 app which exposes a simple API to manage list of tasks.<br>
+          Frontend is a backbone app which consumes the rails API.<br>
+          This application was built with no previous knowledge of backbone-js. It was just to experiment new technologies.<br>
+          </p>
+        </div>
+
+        <div class='card-footer'>
+          <a href='https://github.com/delbetu/todo-app' class='btn btn-primary' role='button'>Github</a>
+          <a href='https://todo--backbone.herokuapp.com/' class='btn btn-default' role='button'>Live</a>
+        </div>
+      </div>
+
+
+      <div class='card'>
+        <img src='/assets/images/task-logger.png' class='card-img-top' alt='task-logger-screenshot'>
+        <div class='card-body'>
+          <b>Oct 2016</b>
+          <h5 class='card-title'>Task Logger (Ruby + Rspec)</h5>
+          <p class='card-text'>
+          Task logger is a simple console app for loggin your daily work.<br>
+          It was developed using TDD, splitting code responsiblities into IO-interactor objects and UI program and Core functionality.<br>
+          Core objects were tested first moking the interaction with collaborators.<br>
+          That revealed the interface that IO objects should met.<br>
+          This app interacts with external API as an IO device, and File storage as another IO device<br>
+          </p>
+        </div>
+
+        <div class='card-footer'>
+          <a href='https://github.com/delbetu/task_logger' class='btn btn-primary' role='button'>Github</a>
+        </div>
+      </div>
+
     </div>
   </div>
 
-
-  <div class='card'>
-    <img src='/assets/images/supermarket-rules.png' class='card-img-top' alt='supemarket-rules-screenshot'>
-    <div class='card-body'>
-      <b>Feb 2020</b>
-      <h5 class='card-title'> Supermarket Discount Rules (Rspec/Ruby)</h5>
-      <p class='card-text'>
-         This project implements a flexible solution to the problem of offering multiple discount rules on a supermarket.
-         If you follow the commits you can see how it was built.
-         In particular you can see the usage of `TDD`, `Refactoring` and `Design-Patterns` applied.
-      </p>
-    </div>
-
-    <div class='card-footer'>
-      <a href='https://github.com/delbetu/refactoring-to-chain-of-responsibility' class='btn btn-primary' role='button'>Github</a>
-    </div>
+  <div class='row'>
+    <table>
+      <tr>
+        <th colspan='2'>Open Source Contributions</th></tr>
+      <tr>
+        <td>October 2020</td>
+        <td><a href='https://github.com/ifmeorg/ifme/pulls?q=is%3Apr+is%3Aclosed+author%3Adelbetu'>ifme</a>  </td>
+      </tr>
+      <tr>
+        <td>October 2020</td>
+        <td><a href='https://github.com/vimcolorschemes/vimcolorschemes/pulls?q=is%3Apr+is%3Aclosed+author%3Adelbetu'>vimcolorschemes</a>  </td>
+      </tr>
+      <tr>
+        <td>Jan 2019</td>
+        <td><a href='https://github.com/forem/forem/pulls?q=is%3Apr+author%3Adelbetu+'>Dev.to</a>  </td>
+      </tr>
+      <tr>
+        <td>October 2015</td>
+        <td><a href='https://github.com/datauy/back-end-birra/pull/4 '>BackendBirra</a>  </td>
+      </tr>
+    </table>
   </div>
-
-  <div class='card'>
-    <img src='/assets/images/todo-app.png' class='card-img-top' alt='todo-app-screenshot'>
-    <div class='card-body'>
-      <b>Oct 2019</b>
-      <h5 class='card-title'> TODO App (BackboneJs + Rails)</h5>
-      <p class='card-text'>
-        This application is composed of two different projects backend and fronted.<br>
-        Backend is a Rails 4 app which exposes a simple API to manage list of tasks.<br>
-        Frontend is a backbone app which consumes the rails API.<br>
-        This application was built with no previous knowledge of backbone-js. It was just to experiment new technologies.<br>
-      </p>
-    </div>
-
-    <div class='card-footer'>
-      <a href='https://github.com/delbetu/todo-app' class='btn btn-primary' role='button'>Github</a>
-      <a href='https://todo--backbone.herokuapp.com/' class='btn btn-default' role='button'>Live</a>
-    </div>
-  </div>
-
-
-  <div class='card'>
-    <img src='/assets/images/task-logger.png' class='card-img-top' alt='task-logger-screenshot'>
-    <div class='card-body'>
-      <b>Oct 2016</b>
-      <h5 class='card-title'>Task Logger (Ruby + Rspec)</h5>
-      <p class='card-text'>
-        Task logger is a simple console app for loggin your daily work.<br>
-        It was developed using TDD, splitting code responsiblities into IO-interactor objects and UI program and Core functionality.<br>
-        Core objects were tested first moking the interaction with collaborators.<br>
-        That revealed the interface that IO objects should met.<br>
-        This app interacts with external API as an IO device, and File storage as another IO device<br>
-      </p>
-    </div>
-
-    <div class='card-footer'>
-      <a href='https://github.com/delbetu/task_logger' class='btn btn-primary' role='button'>Github</a>
-    </div>
-  </div>
-
 </div>

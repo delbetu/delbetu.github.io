@@ -5,4 +5,5 @@
 - [X] Add OSS contributions to
 - [X] Remove stars and put icons along with years of experience on that tech
 - [ ] Move technical writing(blog posts) linking to dev.to within portfolio.
-- [ ] Mix open source contributions within portfolio
+- [X] Mix open source contributions within portfolio
+- [ ] Improve style for oss table with bootstrap 4
