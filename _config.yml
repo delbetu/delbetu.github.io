@@ -2,7 +2,7 @@ title: Marcos Bellucci
 email: delbetu@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Personal website to show who am i and how i work.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site
 url: "https://delbetu.github.io"
 twitter_username: delbetu
 github_username:  delbetu
@@ -14,11 +14,3 @@ plugins:
 
 # Build settings
 markdown: kramdown
-
-# Disqus Comments
-disqus:
-  # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-  shortname: delbetu
-
-jekyll_admin:
-  homepage: posts

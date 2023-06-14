@@ -4,6 +4,5 @@
 - [X] Rename Projects for Portfolio
 - [X] Add OSS contributions to
 - [X] Remove stars and put icons along with years of experience on that tech
-- [ ] Add blog post
 - [ ] Move technical writing(blog posts) linking to dev.to within portfolio.
 - [ ] Mix open source contributions within portfolio

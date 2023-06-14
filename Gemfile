@@ -6,6 +6,5 @@ gem 'jekyll'
 gem 'jemoji'
 
 group :jekyll_plugins do
-  gem 'jekyll-admin'
   gem 'jekyll-sitemap'
 end
