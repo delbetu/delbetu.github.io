@@ -7,3 +7,4 @@
 - [ ] Move technical writing(blog posts) linking to dev.to within portfolio.
 - [X] Mix open source contributions within portfolio
 - [ ] Improve style for oss table with bootstrap 4
+- [ ] agregar que fue lo que hice en cada proyecto ( describir mi participacion y mis aportes, con enfoque en beneficios de mis actos)
