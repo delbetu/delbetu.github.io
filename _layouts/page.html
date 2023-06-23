@@ -2,14 +2,14 @@
 layout: default
 ---
 
-<header>{% include nav.html %}</header>
 
 <div class="container">
-  {{ content }}
-
-  <footer class='row'>
-    <div class='col'>
-      <!-- {% include social_icons.html %} -->
+  <header>{% include nav.html %}</header>
+  <div class='row'>
+    <div class='col-sm-1'></div>
+    <div class='col-sm lead'>
+      {{ content }}
     </div>
-  </footer>
+    <div class='col-sm-1'></div>
+  </div>
 </div>
