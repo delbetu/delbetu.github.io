@@ -3,6 +3,32 @@ Commercial Real Estate
 Lease Administration Software
 Lease Accounting
 
+# Product Challenges
+- Devs are responsible for everything: requirements, design, implement, monitor, triage/debug-issues, qa, implement(frontend/backend/testing)
+- Customizable Reporting
+- Industry Standard Compliance: IFRS ASC42 (customers from different countries follow different standards), thorough testing strategy
+- Multi-Tenancy and Role-Based Access: Data-Isolation, Ensure 
+- Integrating with 3rd party (not yet)
+
+# Project Size
+142k lines (Aug 2023)
+213 controllers
+116 models
+18 mailers
+60k lines of Javascript
+
+# Non functional Info
+- performance: response times, throughput, resource utilization
+- scalability: heroku
+- availability: heroku
+- security: dev best practices + infrastructure configuration??
+- usability: UI/UX on every epic design
+- maintainability: dev best practices (test, qa, review, discussions)
+- extensibility: Integrations with 3rd party APIs?
+- data management: automatic backups by heroku
+- compliance: ASC42, IRFS
+- monitoring: logging: heroku logs, error_tracking: sentry, performance_tracking: Skylight, performance_analytics: Skylight, performance_alerting: ??
+
 # Functionality
 * Accounting  
   Double Entry Bookkeping (Every Entry to an account requires a corresponding opposite to another account) (credit & debit)
