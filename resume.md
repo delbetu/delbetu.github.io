@@ -57,7 +57,7 @@ Interested in: `Elixir`, `Rust`, `DDD`.
 - Kept with individual contributor role (same responsibilities explained on Truelogic section)
 - Recruited candidates from my personal network, 4 of them were hired (2 Junior Devs, 1 Senior Dev, 1 Senior UI/UX)
 - Mentored and supported other team members
-- Took the lead on Tech-Talks organization and enouraged other devs to create and present their own talks
+- Took the lead on Tech-Talks organization and encouraged other devs to create and present their own talks
 
 **Fullstack Senior Software Engineer at [Truelogic](https://www.truelogicsoftware.com/)                           *Mar '20 - May '21*{:.float-right}**
 *[Occupier](https://www.occupier.com/)* <sub>SaaS product focused on Commercial Real Estate Leasing</sub>
