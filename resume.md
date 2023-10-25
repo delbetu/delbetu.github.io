@@ -19,7 +19,7 @@ _Montevideo, UY GMT-3_   _&#9742; (+598) 98-613-144 &#9993; delbetu@gmail.com_{:
 <!-- Most common skills are: communication & collaboration, Proficency with Rails & Javascript, DB Manangement, Agile Familiarity, Testing Frameworks -->
 
 Software Engineer with Computer Science background.  
-10+ years working collaboratively for U.S. startups to deliver high quality, tested, performant and correct software using agile development processes.  
+10+ years working collaboratively for U.S. startups delivering high quality, tested, performant and correct software using agile development processes.  
 Proficient with: `Rails` + `React`.  
 Interested in: `Elixir`, `Rust`, `DDD`.  
 
