@@ -73,6 +73,7 @@ Interested in: `Elixir`, `Rust`, `DDD`.
 - Restful APIs, Advance SQL, Object-Oriented Design, Authorization, Serialization
 - React, Redux, Typescript, Rails, Sidekiq, Rspec, Ruby, Heroku, Postgres, Redis
 
+<div class='pagebreak'></div>
 
 **Senior Software Engineer at [Oktana](https://www.oktana.com/)                        *Feb '17 - Feb '20*{:.float-right}**
 *[Trailhead](https://trailhead.salesforce.com/en/home)*  <sub>e-learning platform powered by Salesforce</sub>
@@ -82,9 +83,6 @@ Interested in: `Elixir`, `Rust`, `DDD`.
  - Maintain a legacy content processing pipeline used to processes and publish content
  - Assisted newcomers on-boarding by having 1-1 meetings and preparing documentation for them reducing their learning time
  - Rails, Postgres, Sidekiq, Heroku, React, Jwt, Cloudinary, S3, Swagger, Jenkins
-
-
-<div class='pagebreak'></div>
 
 
 #### Previous Experience
