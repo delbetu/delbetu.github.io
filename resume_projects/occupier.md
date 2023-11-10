@@ -95,6 +95,25 @@ Postgres, Redis, Heroku
 
 # Story
 
+
+## Scheduled Exports
+### Problem
+
+Automate data extraction for our customers, so they can create scripts to integrate with their own tools.
+
+### Solution
+
+Allow users to schedule exports to be sent out on a regular basis.
+So they can receive the data on their emails and process it from there.
+
+### Results
+
+Until now Nov 7 we were able to plan and implement a phase 1 of the project.
+We expect to gain feedback from it in order to determine if it worth investing more time on improvements.
+
+### What went wrong?
+pending
+
 ## Variance Report - Expense Type Breakdown
 
 ### Problem
