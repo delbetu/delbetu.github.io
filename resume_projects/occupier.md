@@ -95,6 +95,19 @@ Postgres, Redis, Heroku
 
 # Story
 
+## Highligth exceptions/errors
+
+business impact: cuando viene un nuevo usuario tenemos que tomar todos sus datos en papel y pasarlos a 
+occupier, luego interactua con gente de customer success que se fija si los datos tienen errores y se
+comunica con el usuario. Todo esto es un proceso muy manual que puede ser hecho como parte de la aplicacion.
+CS-team marca los problemas en los datos en la plataforma el usuario los puede ver claramente y sabe que tiene que hacer.
+Esto agilita el proceso ahorrando tiempo a los usuarios y a cs-team.
+
+Para esto decidimos mejorar las tasks ya que notamos que era una feature muy utilizada y amada por los clientes.
+
+TODO: continue.....
+
+
 
 ## Scheduled Exports
 ### Problem
