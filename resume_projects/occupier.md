@@ -108,6 +108,24 @@ Para esto decidimos mejorar las tasks ya que notamos que era una feature muy uti
 TODO: continue.....
 
 
+## Payables & Vendors
+
+problem:
+  rent-roll is the monthly process of identifying the correct rent and expenses that need to be paid to landlord and other vendors
+  In practice, this means reviewing the lease administration data for a given time period to identify estimated expenses, and reconciling that data with invoices or other sources of payment information in order to produce a final report of all the expenses that need to be paid. 
+Today is a manual, expensive and time-consuming process.
+
+business impact:
+* Open market to enterprise customers
+* Increases retention by providing existing customters with more functionality
+
+technical challenges:
+* report can be imported into multiple customer' systems, so it must have customizable columns
+* user can select which columns want to export
+* user can create new columns (custom data)
+* report contains data from multiple tables (payables, vendors, leases) custom data from multiple tables.
+
+
 
 ## Scheduled Exports
 ### Problem
