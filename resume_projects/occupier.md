@@ -93,7 +93,31 @@ from a json field representation into a separate table).
 
 Postgres, Redis, Heroku
 
-# Story
+# Stories
+
+## FTP Scheduled Exports
+
+**Problem**   
+A customer mentioned that in order to integrate with their system they could receive their data every month on a csv format over SFTP.   
+Our current scheduled exports only deliver via email so Occupier decided to support other delivery methods.  
+In particular FTP/SFTP/S3  
+**Solution**   
+Erik started coding a POC in order to assess feasibility.  
+Then assigned the feature to Marcos who reviewed the code and validated the architecture with Krishan before start coding.  
+Marcos did some adjustments to the code and coded a solution.  
+Including dummy docker servers, updated the documentation, test and missing features such us `send-it-now`.  
+  
+tech difficulties:     
+* encrypting sensitive data  
+* dealing with external servers using FTP/SFTP/S3 requires time to setup and test  
+
+Carlos took the time to thorough review and QA all the code and helped elevate its overall quality.  
+Krishan did a final review  
+
+**Results**  
+* Review process was slow due to the amount of changes introduced in only 1 PR. Learning: Maybe split into multiple smaller PRs might accelerate the code review process  
+* Customer was able to use the feature in production. He was satisfied with the functionality except for payments and journal entries which we will be able to release after having relative time filters in production.
+
 
 ## Highligth exceptions/errors
 
