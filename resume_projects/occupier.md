@@ -95,10 +95,61 @@ Postgres, Redis, Heroku
 
 # Stories
 
-## AI Infrastructure / AI Clause Summary
+## AI Infrastructure
+**Problem**
+Entender y analizar como impacta a nuestra infrastructura el hecho de agregar features que utilicen LLMS
+
+Rate Limit
+Cost Control
+HITL
+Jobs
+Monitoring
+Audit Information
+
+**Solution**
+**Result**
+
+
+## AI Clause Summary
+
+**Problem**
+Las clauses en nuestro sistema eran solo tratadas como texto que los usuarios pueden editar pero para el negocio son super importantes.
+Entonces el objetivo era aumentar la utilidad de las mismas en el sistema.
+Siendo que los LLM son buenos para procesar texto, entenderlo y explicarlo esta era un fit para su aplicacion.
+Asi que decidimos empezar con lo mas simple posible que era hacer un summary de las clauses de un lease.
+Y esto ya introdujo problemas como el manejo en Bulk y la notificacion en tiempo real.
+Asi que comenzamos con lo conocido hasta el momento que fue Sidekiq y Polling.
+Y salimos con esa solución a la beta testing phase.
+
+**Solution**
+
+Por un tema de consumo de recursos de los servidores RubyLLM recomienda utilizar un manejador de jobs basado en fibras en vez de hilos
+asi que creamos un PR POC para aprender sobre el mismo y reemplazar la implmentacion hecha con Sidekiq.
+Y lo mismo hicimos con Websockets donde se propuso crear una interaccion generica donde se abre una conexion websocket por usuario conectado
+y cualquier clase del backend puede enviar notificaciones a los usuarios a traves de esta conexion.
 
 
 
+**Result**
+
+
+
+## Relative Time Filters
+**Problem**
+Los scheduled exports corren todos los meses. Si estos mantienen un filtro por ejemplo: leases expiring in March
+Todos los meses va a enviar el reporte de Marzo y cuando en realidad querriamos leases expiring next month
+
+**Solution**
+Para ello se precisa un estructura que permita traducir fechas relativas "current month" en codigo SQL
+Un componente react personalizado (aun no disponible en MUI) que permita la seleccion de fechas exactas y relativas
+Formato que permite construir:
+* fechas exactas (start, end dates) 
+* relativas pre definidas last month, current month, current quarter
+* relativas custom ( Last/Next/Current number week/month/quarter/year )
+
+**Result**
+Se implemento esta solucion y los relative filters comenzaron a reemplazar todos los filtros de fechas en toda la aplicación.
+Usuarios satisfechos
 
 ## FTP Scheduled Exports
 
