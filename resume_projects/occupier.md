@@ -95,6 +95,15 @@ Postgres, Redis, Heroku
 
 # Stories
 
+## Connect Lease-Admin & Deal-Management
+Se dividio el equipo de lease-admin, se decidio que se queria hacer upsell del modulo de deal-mgm
+Se creo nuevo equipo de trabajo deal-mgm
+Comenzamos creando una experiencia conectada entre
+Entro un nuevo PM
+Comenzamos manejando versiones de Entregables (Esto ayuda a separar los mocks que llevan entregables parciales)
+Comenzamos a medir el impacto de nuestros esfuerzos
+Yo sugerí conectar cada Epic o Iniciativa a un dashboard en Metabase y me encargue de mantenerlo. El mismo es el que se presenta a los directores
+
 ## AI Infrastructure
 **Problem**
 Entender y analizar como impacta a nuestra infrastructura el hecho de agregar features que utilicen LLMS
