@@ -103,6 +103,10 @@ Esta vez no queríamos apurarnos y resolver un problema incorrecto así que se d
 informacion acerca de que es lo que deberia hacer el sistema de critical dates y que hoy no hace.
 Mientras tanto yo propuse que los desarrolladores comencemos investigando los tipos de datos que vamos a tener que representar.
 Para ello me ofrecí a estudiar la fuente de los datos (las clauses de los contratos) caso a caso para identificar que cosas nuestro modelo actual no cubre.
+
+Una parte jodida es que los contratos no especifican fechas concretas, sino que declaran reglas para calcular fechas por ejemplo:
+para poder renovar el lease enviar notificacion desde 180 dias antes de lease-expiration hasta 30 días antes de lease-expiration
+
 continuara.....
 
 
