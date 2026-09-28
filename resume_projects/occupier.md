@@ -95,6 +95,17 @@ Postgres, Redis, Heroku
 
 # Stories
 
+## Mejora de Critical Dates
+
+Luego de que DM se abandonara, se decidió que era importante poner nuestros esfuerzos en las partes CORE del sistema que no funcionan bien.
+Osea que no cumplen las expectativas de nuestros usuarios.
+Esta vez no queríamos apurarnos y resolver un problema incorrecto así que se dedicará tiempo a reunirse con clientes para recolectar
+informacion acerca de que es lo que deberia hacer el sistema de critical dates y que hoy no hace.
+Mientras tanto yo propuse que los desarrolladores comencemos investigando los tipos de datos que vamos a tener que representar.
+Para ello me ofrecí a estudiar la fuente de los datos (las clauses de los contratos) caso a caso para identificar que cosas nuestro modelo actual no cubre.
+continuara.....
+
+
 ## Connect Lease-Admin & Deal-Management
 Se dividio el equipo de lease-admin, se decidio que se queria hacer upsell del modulo de deal-mgm
 Se creo nuevo equipo de trabajo deal-mgm
@@ -103,6 +114,11 @@ Entro un nuevo PM
 Comenzamos manejando versiones de Entregables (Esto ayuda a separar los mocks que llevan entregables parciales)
 Comenzamos a medir el impacto de nuestros esfuerzos
 Yo sugerí conectar cada Epic o Iniciativa a un dashboard en Metabase y me encargue de mantenerlo. El mismo es el que se presenta a los directores
+mientras estabamos desarrollando esto se estudiaron los datos y se dieron cuenta de que incluso si este proyecto era existoso (conseguia muchos upsell)
+las ganancias no iban a ser suficiente como para llegar a los target de ganancia de la empresa.
+De nuestra parte los desarrolladores nos ocupamos de dear un minimum full lifecycle product algo que permita generar upsells y dejar notas de todo lo que quedo pendiente
+
+
 
 ## AI Infrastructure
 **Problem**
