@@ -109,6 +109,11 @@ para poder renovar el lease enviar notificacion desde 180 dias antes de lease-ex
 
 continuara.....
 
+Una de mis primeros aportes fueron alinear el proceso de desarrollo con el objetivo de la empresa de trabajar por objetivos
+Asi que hice mucho incapie en la importancia de tomar medidas y definir targets para cada mejora que proponiamos, lo que permitio poder reflejar con numeros reales el impacto de nuestro trabajo.
+Logramos reducir los eventos y alertas duplicadas en x% tambien la cantidad de correos que recibian nuestros usuarios de 800 correos peor caso a un correo diario.
+
+
 
 ## Connect Lease-Admin & Deal-Management
 Se dividio el equipo de lease-admin, se decidio que se queria hacer upsell del modulo de deal-mgm
